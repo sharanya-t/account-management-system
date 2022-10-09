@@ -1,0 +1,1634 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2021-08-01 16:28:35">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<application_name>Account Management</application_name>
+<application_scope>x_587269_account_m</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>AM 4</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>dcc912622f1130106a8e2e5df699b665</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>e40beb802f3130106a8e2e5df699b66c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>pa_tabs_f9dd8dd02f6530106a8e2e5df699b605</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="DELETE"><canvas_page display_value="">7ddd8dd02f6530106a8e2e5df699b603</canvas_page><name>ACCOUNT MANAGEMENT - New Tab 4</name><page display_value="">35dd8dd02f6530106a8e2e5df699b603</page><sys_class_name>pa_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 13:24:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f9dd8dd02f6530106a8e2e5df699b605</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ACCOUNT MANAGEMENT - New Tab 4</sys_name><sys_overrides/><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>pa_tabs_f9dd8dd02f6530106a8e2e5df699b605</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:24:40</sys_updated_on></pa_tabs></record_update>]]></payload>
+<payload_hash>319263409</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>300b2b442f3130106a8e2e5df699b6b7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac41ed9760000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>ACCOUNT MANAGEMENT - New Tab 4</target_name>
+<type>Tab</type>
+<update_domain>global</update_domain>
+<update_guid>d3cf4954ec65301073348bdd65233b64</update_guid>
+<update_guid_history>d3cf4954ec65301073348bdd65233b64:319263409,f9dd8dd02e6530107be3ca3c1ba10006:-2134318785,f9dd8dd02e6530107be3ca3c1ba10006:-2134318785,f9dd8dd02e6530107be3ca3c1ba10006:-2134318785</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_14eb1ba12f8470106a8e2e5df699b69b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA ACCOUNT MANAGEMENT - New Tab 3">6ddbd7a12f8470106a8e2e5df699b6c6</grid_canvas><height>7</height><portal_widget display_value="Created 2021-05-11 12:53:28">14eb1ba12f8470106a8e2e5df699b699</portal_widget><posx>8</posx><posy>10</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-11 07:23:28</sys_created_on><sys_id>14eb1ba12f8470106a8e2e5df699b69b</sys_id><sys_mod_count>28</sys_mod_count><sys_name>6ddbd7a12f8470106a8e2e5df699b6c6</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_grid_canvas_pane_14eb1ba12f8470106a8e2e5df699b69b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:32:50</sys_updated_on><width>4</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>352059081</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>300b2b442f3130106a8e2e5df699b6ba</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac41e7da00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>6ddbd7a12f8470106a8e2e5df699b6c6</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>65bfc55409653010ee00892263ffe1df</update_guid>
+<update_guid_history>65bfc55409653010ee00892263ffe1df:352059081,9a45cd1cc82530107d3868fe0e346c81:-614730171,c935495cd22530100bdb74906f02db60:-373032858,1835055ceb2530101f41497f5ffbac03:352059081,be25095cba253010ac9c2f5193eef1e8:-1098124797,2225095c4d2530104cdfb65f1504c8c1:-1339822110,e0d4c15c0125301001c249c5916989f4:482587718,3894cd1cc925301073f6544a4112cbd3:-614730171,1784cd1cd52530105fc58233ac78c46f:482587718,a57149989625301005a56635619f171b:-614730171,6d610998dc253010f529c6e1bcd48b44:1449376970,5c73494098d1301095ccfa3e17202ed7:352059081,f3634940ecd130109b0fdc33d925c9bb:-677215768,74438540f7d13010a23355d53ff732e3:-918913081,db23c540cad130108c4aa85429f3f201:1684173024,e6238540d3d1301017713025325c5eda:2061351407,8303814062d13010b34ebc02bf4ac081:-1513476383,62e2c140add1301040e64618f8dec05c:1684173024,16fd9f2598847010c25c86255f770739:2061351407,8deddb25b28470103805753a1e753169:1812053530,a08c17e1de847010891eabe8a7f550b3:-782304615,f27c17e10c8470108f4a68a8d7755f38:-2092889219,be1c13e10f8470108e1b3c05d8d48f3a:-782304615,d11c53e1e0847010b4520186d56db055:1095911538,800c13e1f284701068ec1ef7ab6fd49a:1438795347,30fb9fa1688470102e7096baf65400e9:1781679156,27eb13e1c48470101a9d2ebf7dc9b84e:2124562965,51eb1fa16e8470101c26090d2c8d6333:-1827520522,14eb1ba17b84701070a79722e2d0d09c:636758025</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_hp_reference_4356099c2f2530106a8e2e5df699b640</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_reference"><sys_ui_hp_reference action="INSERT_OR_UPDATE"><publisher_reference display_value="Account Manager">d744491c2f2530106a8e2e5df699b686</publisher_reference><reference_field>account_manager</reference_field><reference_table>x_587269_account_m_accounts</reference_table><sys_class_name>sys_ui_hp_reference</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 12:52:25</sys_created_on><sys_id>4356099c2f2530106a8e2e5df699b640</sys_id><sys_mod_count>0</sys_mod_count><sys_name>d744491c2f2530106a8e2e5df699b686</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_ui_hp_reference_4356099c2f2530106a8e2e5df699b640</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 12:52:25</sys_updated_on></sys_ui_hp_reference></record_update>]]></payload>
+<payload_hash>1824728579</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>300b2b442f3130106a8e2e5df699b6bd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac3f97f380000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>d744491c2f2530106a8e2e5df699b686</target_name>
+<type>Interactive Filter Reference</type>
+<update_domain>global</update_domain>
+<update_guid>6576499cd1253010ce1522203cb23fb9</update_guid>
+<update_guid_history>6576499cd1253010ce1522203cb23fb9:1824728579</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>pa_dimensions_ed16d1982f6530106a8e2e5df699b6e3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dimensions"><pa_dimensions action="INSERT_OR_UPDATE"><active>true</active><conditions table="sys_choice">element=account<item endquery="false" field="element" goto="false" newquery="false" operator="=" or="false" value="account"/></conditions><description/><empty_value/><facts_table>sys_choice</facts_table><field>sys_id</field><manual_breakdown/><name>TEST</name><security_type>1</security_type><sys_class_name>pa_dimensions</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 14:00:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ed16d1982f6530106a8e2e5df699b6e3</sys_id><sys_mod_count>3</sys_mod_count><sys_name>TEST</sys_name><sys_overrides/><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>pa_dimensions_ed16d1982f6530106a8e2e5df699b6e3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 14:16:42</sys_updated_on></pa_dimensions><sys_translated_text action="delete_multiple" query="documentkey=ed16d1982f6530106a8e2e5df699b6e3"/></record_update>]]></payload>
+<payload_hash>124958921</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>300beb802f3130106a8e2e5df699b66d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac446a8d90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>TEST</target_name>
+<type>Breakdown Source</type>
+<update_domain>global</update_domain>
+<update_guid>10c9115c47653010fc881e13d94c534e</update_guid>
+<update_guid_history>10c9115c47653010fc881e13d94c534e:124958921,df97d1d85f653010ed9cb55f9022acaf:1641975451,f3e6dd98306530106f3f5463fdf29150:496606884,a916d198c3653010345f60060a612ae5:1038359500</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_92bb81dc2f2530106a8e2e5df699b6cd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="DELETE"><legacy_page display_value="PA ACCOUNT MANAGEMENT - New Tab 4">1ebb81dc2f2530106a8e2e5df699b6cb</legacy_page><name>PA ACCOUNT MANAGEMENT - New Tab 4</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 13:15:25</sys_created_on><sys_id>92bb81dc2f2530106a8e2e5df699b6cd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PA ACCOUNT MANAGEMENT - New Tab 4</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_grid_canvas_92bb81dc2f2530106a8e2e5df699b6cd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:15:25</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+<payload_hash>-705499041</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>340b2b442f3130106a8e2e5df699b6b9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac40eba8e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>PA ACCOUNT MANAGEMENT - New Tab 4</target_name>
+<type>Grid Canvas</type>
+<update_domain>global</update_domain>
+<update_guid>d1cb85909165301030c8f01f3f565c55</update_guid>
+<update_guid_history>d1cb85909165301030c8f01f3f565c55:-705499041,5ebb81dcef253010331778e383eeaace:849504979</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_98476ba42f2130106a8e2e5df699b6d2</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_587269_account_m.renderMailtoButton&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;renderMailtoButton&lt;/name&gt;&lt;script&gt;&lt;![CDATA[function renderMailtoButton(response, emailbod, number) {
+
+    var instance = gs.getProperty("instance_name");
+    var link = "https://" + instance + ".service-now.com";
+    var mark = email.watermark;
+    var emailAddress = instance + "@servicenowdevelopers.com";
+    
+    //var mailLink = '&lt;a href="mailto:' + emailAddress + '?subject=Re:' + number + ' ' + response + '&amp;body=' + emailbod + '\n' + mark + '"&gt;&lt;img src="' + link + image + '"&gt;&lt;/a&gt;';
+	var mailLink = '&lt;a href="mailto:' + emailAddress + '?subject=Re:' + number + ' ' + response + '&amp;body=' + emailbod + ' ' + mark + '"&gt;&lt;button style="background-color:#b7ebc6;" onclick="' + link + '"&gt;Complete&lt;/button&gt;&lt;/a&gt;';
+    return mailLink;
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-07-21 19:16:37&lt;/sys_created_on&gt;&lt;sys_id&gt;98476ba42f2130106a8e2e5df699b6d2&lt;/sys_id&gt;&lt;sys_mod_count&gt;14&lt;/sys_mod_count&gt;&lt;sys_name&gt;renderMailtoButton&lt;/sys_name&gt;&lt;sys_package display_value="Account Management" source="x_587269_account_m"&gt;e43c1e972f6720106a8e2e5df699b612&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="Account Management"&gt;e43c1e972f6720106a8e2e5df699b612&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_98476ba42f2130106a8e2e5df699b6d2&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-07-23 03:34:37&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1538026979</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>340b2b442f3130106a8e2e5df699b6bc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ad16de1350000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>renderMailtoButton</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>63836a4103e170106818abe8df5f5d6c</update_guid>
+<update_guid_history>63836a4103e170106818abe8df5f5d6c:1538026979,80993eb4f569301021079c0ff626be6a:-713247677,0079bab08e6930102f2e60cb06ee138c:1538026979,64b4ffec63213010fca2941ce20ad718:1496620422,b7d337ece621301090972fff2a17e274:1583818120,0573bbac5421301019338a341be2454b:1985754992,d7f2bbacab2130108870a386637b64af:1249454271,7591bb2caf213010f70f90cfa63bba02:1027548834,0fd0fb6c0d213010d1275ca9976e165d:1249454271,1f3fa72c722130101d121e4222bf7541:174009859,577e6be88e2130108fb57eccb9cedf96:-2039943055,307e6fa81f2130105b62c27110f06aba:-2109111633,a05e2be82a2130108b30e8c314c82dcf:-1022466622,dadaa768f62130108bffbd62083466b7:-1551094829,0ff7af649b213010d44fca3169898df8:-1199477481</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_587269_account_m_plan_fee_measure_status_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="status" label="Status" language="en" table="x_587269_account_m_plan_fee_measure"><sys_documentation action="INSERT_OR_UPDATE"><element>status</element><help/><hint/><label>Status</label><language>en</language><name>x_587269_account_m_plan_fee_measure</name><plural>Status</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-15 08:28:09</sys_created_on><sys_id>650ad2262f5130106a8e2e5df699b684</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Status</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_documentation_x_587269_account_m_plan_fee_measure_status_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-15 08:28:09</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1570865672</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>380b2b442f3130106a8e2e5df699b6b8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17aa947c26a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table>x_587269_account_m_plan_fee_measure</table>
+<target_name>Plan Fee Measure.Status</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>790ad226315130101cfd496b429752b5</update_guid>
+<update_guid_history>790ad226315130101cfd496b429752b5:1570865672</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_0c2ecbe22fd130106a8e2e5df699b6a0</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;true&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;x_587269_account_m_plan_fee_measure&lt;/collection&gt;&lt;condition&gt;!(gs.hasRole('admin') || gs.hasRole('x_587269_account_m.director'))&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Display current user's planfeemeasures&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/ ) {
+
+    // Add your code here
+    var u = gs.getUserID(); //Get the sys_id value of the current user
+    var q = current.addEncodedQuery('account.account_managerDYNAMIC90d1921e5f510100a9ad2572f2b477fe');
+	
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-07-15 12:15:47&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;0c2ecbe22fd130106a8e2e5df699b6a0&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Display current user's planfeemeasures&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Account Management" source="x_587269_account_m"&gt;e43c1e972f6720106a8e2e5df699b612&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Account Management"&gt;e43c1e972f6720106a8e2e5df699b612&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_0c2ecbe22fd130106a8e2e5df699b6a0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-07-15 12:22:16&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=0c2ecbe22fd130106a8e2e5df699b6a0"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1637181681</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>380b2b442f3130106a8e2e5df699b6bb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17aaa1e18ad0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table>x_587269_account_m_plan_fee_measure</table>
+<target_name>Display current user's planfeemeasures</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>9b9f0f6a87d13010a7099e352eeccb8c</update_guid>
+<update_guid_history>9b9f0f6a87d13010a7099e352eeccb8c:-1637181681,b08e0b6a83d130105aa75651b2cbdeaf:1798223461,402e076a70d13010ec51678381f25344:1019976935</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>pa_m2m_dashboard_tabs_d6bb81dc2f2530106a8e2e5df699b6d2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="DELETE"><dashboard display_value="ACCOUNT MANAGEMENT">44d72a4b2ff3a4106a8e2e5df699b626</dashboard><home>false</home><homepage/><order>4</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 13:15:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d6bb81dc2f2530106a8e2e5df699b6d2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>44d72a4b2ff3a4106a8e2e5df699b626</sys_name><sys_overrides/><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_d6bb81dc2f2530106a8e2e5df699b6d2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:15:25</sys_updated_on><tab display_value="ACCOUNT MANAGEMENT - New Tab 4">9abb81dc2f2530106a8e2e5df699b6cf</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+<payload_hash>2140902189</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>380beb802f3130106a8e2e5df699b66e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac40eb9e60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>44d72a4b2ff3a4106a8e2e5df699b626</target_name>
+<type>Dashboard Tab</type>
+<update_domain>global</update_domain>
+<update_guid>ddcb4590cc653010e5a9ac3e8d991761</update_guid>
+<update_guid_history>ddcb4590cc653010e5a9ac3e8d991761:2140902189,e6bb4590c36530101d2915e035dea25b:1772454945</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_6280a29b2f6720106a8e2e5df699b6e8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Account Management</name><order>100</order><roles>x_587269_account_m.accounts_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-21 17:02:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6280a29b2f6720106a8e2e5df699b6e8</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Account Management</sys_name><sys_overrides/><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_app_application_6280a29b2f6720106a8e2e5df699b6e8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-15 11:21:51</sys_updated_on><title>Account Management</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>-1673387459</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>3c0b2b442f3130106a8e2e5df699b6b7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17aa9e6c8130000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>Account Management</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>c2c10b2222d130105b9ab787dfa2c065</update_guid>
+<update_guid_history>c2c10b2222d130105b9ab787dfa2c065:-1673387459,84814722f3d13010084030567b12be5e:-2146830122,2e80a29b95672010e611df890ead11e9:-1673387459</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_9f848d1c2f2530106a8e2e5df699b647</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="DELETE"><grid_canvas display_value="PA ACCOUNT MANAGEMENT - New Tab 3">6ddbd7a12f8470106a8e2e5df699b6c6</grid_canvas><height>10</height><portal_widget display_value="">93848d1c2f2530106a8e2e5df699b646</portal_widget><posx>0</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 12:44:04</sys_created_on><sys_id>9f848d1c2f2530106a8e2e5df699b647</sys_id><sys_mod_count>0</sys_mod_count><sys_name>6ddbd7a12f8470106a8e2e5df699b6c6</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_grid_canvas_pane_9f848d1c2f2530106a8e2e5df699b647</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 12:44:04</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>1922610436</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>3c0b2b442f3130106a8e2e5df699b6ba</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac3f1eeaf0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>6ddbd7a12f8470106a8e2e5df699b6c6</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>e894cd1cfb253010168a6f91c2c7d6c2</update_guid>
+<update_guid_history>e894cd1cfb253010168a6f91c2c7d6c2:1922610436,17848d1c9425301025e17b409fff3449:449794726</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_contains_279dbe2e2f9130106a8e2e5df699b6df</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="DELETE"><contains display_value="x_587269_account_m.plan_fee_measure_user" name="x_587269_account_m.plan_fee_measure_user">9663169e2f8170106a8e2e5df699b651</contains><role display_value="x_587269_account_m.anager_ey" name="x_587269_account_m.anager_ey">894519312ffba0106a8e2e5df699b67f</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-15 11:03:40</sys_created_on><sys_id>279dbe2e2f9130106a8e2e5df699b6df</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_587269_account_m.plan_fee_measure_user.x_587269_account_m.anager_ey</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_user_role_contains_279dbe2e2f9130106a8e2e5df699b6df</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-15 11:03:40</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+<payload_hash>-837338422</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>3c0b2b442f3130106a8e2e5df699b6bd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17aa9d8983c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>x_587269_account_m.plan_fee_measure_user.x_587269_account_m.anager_ey</target_name>
+<type>Contained Role</type>
+<update_domain>global</update_domain>
+<update_guid>873efe6e11913010da24a5db9ad717b7</update_guid>
+<update_guid_history>873efe6e11913010da24a5db9ad717b7:-837338422,bf9df66e52913010cf9a9260d269c7d7:-1525450410</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>pa_m2m_dashboard_sources_f3549dd42f6530106a8e2e5df699b6ca</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_sources"><pa_m2m_dashboard_sources action="DELETE"><breakdown_source display_value="TEST">ed16d1982f6530106a8e2e5df699b6e3</breakdown_source><dashboard display_value="ACCOUNT MANAGEMENT">44d72a4b2ff3a4106a8e2e5df699b626</dashboard><order>100</order><publisher display_value="Account">f9d0c1582f2530106a8e2e5df699b647</publisher><sys_class_name>pa_m2m_dashboard_sources</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 13:53:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f3549dd42f6530106a8e2e5df699b6ca</sys_id><sys_mod_count>6</sys_mod_count><sys_name>ACCOUNT MANAGEMENT.TEST</sys_name><sys_overrides/><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>pa_m2m_dashboard_sources_f3549dd42f6530106a8e2e5df699b6ca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 14:00:57</sys_updated_on></pa_m2m_dashboard_sources></record_update>]]></payload>
+<payload_hash>1957858014</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>3c0beb802f3130106a8e2e5df699b66d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac7703c020000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>ed16d1982f6530106a8e2e5df699b6e3</target_name>
+<type>Dashboard Breakdown Source</type>
+<update_domain>global</update_domain>
+<update_guid>5524a8a09bad301075cbb87e0129960b</update_guid>
+<update_guid_history>5524a8a09bad301075cbb87e0129960b:1957858014,a52655987e653010ad3415b1a5ad6f99:-1409014934,4ed5159851653010e8015d70e2d78cc1:288005049,31255958ce6530109056ef16675270c1:583607579,80059158d76530100d364e4e238efb08:288005049,e1941558d26530102cf5c5590d2816eb:345711279,c2649158b265301012d3674095a04eb8:583607579,7b5491589e65301013ed5656a9c57716:345711279</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_7ddd8dd02f6530106a8e2e5df699b603</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="DELETE"><legacy_page display_value="PA ACCOUNT MANAGEMENT - New Tab 4">35dd8dd02f6530106a8e2e5df699b603</legacy_page><name>PA ACCOUNT MANAGEMENT - New Tab 4</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 13:24:40</sys_created_on><sys_id>7ddd8dd02f6530106a8e2e5df699b603</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PA ACCOUNT MANAGEMENT - New Tab 4</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_grid_canvas_7ddd8dd02f6530106a8e2e5df699b603</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:24:40</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+<payload_hash>989939825</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>700b2b442f3130106a8e2e5df699b6b9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac41ed8660000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>PA ACCOUNT MANAGEMENT - New Tab 4</target_name>
+<type>Grid Canvas</type>
+<update_domain>global</update_domain>
+<update_guid>5bcf4954b5653010da8a3931994c4c59</update_guid>
+<update_guid_history>5bcf4954b5653010da8a3931994c4c59:989939825,fddd8dd0e7653010c3e54fd574c90304:-1750023451</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_email_df28e7e42f2130106a8e2e5df699b6f5</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_email"&gt;&lt;sys_script_email action="DELETE"&gt;&lt;name&gt;email.button.approve.insert.test&lt;/name&gt;&lt;new_lines_to_html&gt;false&lt;/new_lines_to_html&gt;&lt;script&gt;&lt;![CDATA[(function runMailScript( /* GlideRecord */ current, /* TemplatePrinter */ template,
+    /* Optional EmailOutbound */
+    email, /* Optional GlideRecord */ email_action,
+    /* Optional GlideRecord */
+    event) {
+
+    // Add your code here
+    var img = "/sn-logo-dark-green-email.png";
+
+    var response = "approve";
+
+    var emailbod = "I approve this request.";
+
+    template.print(renderMailtoButton(img, response, emailbod));
+
+})(current, template, email, email_action, event);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_email&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-07-21 19:20:00&lt;/sys_created_on&gt;&lt;sys_id&gt;df28e7e42f2130106a8e2e5df699b6f5&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;email.button.approve.insert.test&lt;/sys_name&gt;&lt;sys_package display_value="Account Management" source="x_587269_account_m"&gt;e43c1e972f6720106a8e2e5df699b612&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Account Management"&gt;e43c1e972f6720106a8e2e5df699b612&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_email_df28e7e42f2130106a8e2e5df699b6f5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-07-21 19:35:54&lt;/sys_updated_on&gt;&lt;/sys_script_email&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-187011965</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>700b2b442f3130106a8e2e5df699b6bc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17acaa37fe40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>email.button.approve.insert.test</target_name>
+<type>Email Script</type>
+<update_domain>global</update_domain>
+<update_guid>e1f03f6ce8213010b2ca81b7ebc619c5</update_guid>
+<update_guid_history>e1f03f6ce8213010b2ca81b7ebc619c5:-187011965,256ca7a836213010a3f2238d1c7b986d:-1377583497,e75ca328c52130106a87303578b7bd71:-216950300,e8c8efe411213010217e38f209f96631:1304561740</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>pa_tabs_e4df01542f6530106a8e2e5df699b65e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="DELETE"><canvas_page display_value="">64df01542f6530106a8e2e5df699b65c</canvas_page><name>ACCOUNT MANAGEMENT - New Tab 4</name><page display_value="">28df01542f6530106a8e2e5df699b65b</page><sys_class_name>pa_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 13:33:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e4df01542f6530106a8e2e5df699b65e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ACCOUNT MANAGEMENT - New Tab 4</sys_name><sys_overrides/><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>pa_tabs_e4df01542f6530106a8e2e5df699b65e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:33:19</sys_updated_on></pa_tabs></record_update>]]></payload>
+<payload_hash>979879023</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>700beb802f3130106a8e2e5df699b66f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac7710d5a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>ACCOUNT MANAGEMENT - New Tab 4</target_name>
+<type>Tab</type>
+<update_domain>global</update_domain>
+<update_guid>2a546ca001ad30105f4f799b72d66325</update_guid>
+<update_guid_history>2a546ca001ad30105f4f799b72d66325:979879023,b8df0154f0653010cd3f8d89464e625f:-966873743,b8df0154f0653010cd3f8d89464e625f:-966873743,b8df0154f0653010cd3f8d89464e625f:-966873743</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_587269_account_m_plan_fee_measure_status</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="status" table="x_587269_account_m_plan_fee_measure"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice&gt;3&lt;/choice&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Status&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value&gt;pending&lt;/default_value&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;status&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Choice"&gt;choice&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_587269_account_m_plan_fee_measure&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-07-15 08:28:08&lt;/sys_created_on&gt;&lt;sys_id&gt;c6e992262f5130106a8e2e5df699b621&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;Status&lt;/sys_name&gt;&lt;sys_package display_value="Account Management" source="x_587269_account_m"&gt;e43c1e972f6720106a8e2e5df699b612&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Account Management"&gt;e43c1e972f6720106a8e2e5df699b612&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_587269_account_m_plan_fee_measure_status&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-07-21 19:09:05&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>165997715</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>740b2b442f3130106a8e2e5df699b6b8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17aca78b4fd0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table>x_587269_account_m_plan_fee_measure</table>
+<target_name>Plan Fee Measure.Status</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>b046af649f2130109bf145bc7dd95c0e</update_guid>
+<update_guid_history>b046af649f2130109bf145bc7dd95c0e:165997715,19962824ffad30107037ee815eee181d:-1480398210,1c5ad626f25130107edb6c4cde2d2bf3:165997715,e90ad22689513010a8306630e461dd82:1873137609</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_ecfb1fa12f8470106a8e2e5df699b660</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA ACCOUNT MANAGEMENT - New Tab 3">6ddbd7a12f8470106a8e2e5df699b6c6</grid_canvas><height>7</height><portal_widget display_value="Created 2021-05-11 12:53:46">ecfb1fa12f8470106a8e2e5df699b65e</portal_widget><posx>8</posx><posy>3</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-11 07:23:46</sys_created_on><sys_id>ecfb1fa12f8470106a8e2e5df699b660</sys_id><sys_mod_count>23</sys_mod_count><sys_name>6ddbd7a12f8470106a8e2e5df699b6c6</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_grid_canvas_pane_ecfb1fa12f8470106a8e2e5df699b660</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:32:50</sys_updated_on><width>4</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-1105390755</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>740b2b442f3130106a8e2e5df699b6bb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac41e7e820000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>6ddbd7a12f8470106a8e2e5df699b6c6</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>a5bf095418653010947a3418d703d730</update_guid>
+<update_guid_history>a5bf095418653010947a3418d703d730:-1105390755,9a45895cf4253010fc806fe2f6c6be76:-2072180007,9535495c1e2530109257d72a3a34966b:-1830482694,6835495cd0253010cd2bd22cca2d0517:-1105390755,0325495c8c25301062b17dea8ca59e00:1739392663,2e25095cc12530100880c3ed688e41cd:1129647167,bcd4c15cb6253010b5b1fa74202c8ffe:-562234024,8194cd1cac253010c98f4611053293de:-2072180007,ef84cd1c48253010f21ea01dc1495379:-562234024,31714998cc25301020288cfa1ed1b326:-2072180007,6d610998dd253010e12a3a21575a3759:404555228,0473494055d1301078125d222777b1bd:-1105390755,b44309408cd13010934bf77202d67c2c:-1692782498,d323c540ddd1301073b1ffee963a8209:100372318,6623854094d13010f5fd492cf9498bde:-967690559,87034540b7d13010f1a7a12cfb22c30f:1197690207,2ee2c1402ed1301038e48752fa0d5a61:100372318,8deddb25db847010aa58b0949bb6146b:-967690559,308c1be1bc847010f2545a814402966a:-1216988436,b67c1be1cd8470109af9b323aac79014:314674635,321c93e19e847010b37f27312bb599f9:-1216988436,5d1c53e14484701080181321006c685a:459989855,cc0c13e1d4847010323295311abaff9d:802873664,fcfb1fa19384701053fbee31d7b8b861:1414346111</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_contains_e04507e22fd130106a8e2e5df699b696</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="x_587269_account_m.accounts_user" name="x_587269_account_m.accounts_user">7150221b2f6720106a8e2e5df699b649</contains><role display_value="x_587269_account_m.director" name="x_587269_account_m.director">7fb5a8132f7ba4106a8e2e5df699b629</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-15 11:37:02</sys_created_on><sys_id>e04507e22fd130106a8e2e5df699b696</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_587269_account_m.accounts_user.x_587269_account_m.director</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_user_role_contains_e04507e22fd130106a8e2e5df699b696</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-15 11:37:02</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+<payload_hash>-1638179641</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>740b2b442f3130106a8e2e5df699b6be</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17aa9f4ad9b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>x_587269_account_m.accounts_user.x_587269_account_m.director</target_name>
+<type>Contained Role</type>
+<update_domain>global</update_domain>
+<update_guid>e44507e21dd130102b9990fbbddb369a</update_guid>
+<update_guid_history>e44507e21dd130102b9990fbbddb369a:-1638179641</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>pa_m2m_dashboard_tabs_b9dd8dd02f6530106a8e2e5df699b607</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="DELETE"><dashboard display_value="ACCOUNT MANAGEMENT">44d72a4b2ff3a4106a8e2e5df699b626</dashboard><home>false</home><homepage/><order>4</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 13:24:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b9dd8dd02f6530106a8e2e5df699b607</sys_id><sys_mod_count>0</sys_mod_count><sys_name>44d72a4b2ff3a4106a8e2e5df699b626</sys_name><sys_overrides/><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_b9dd8dd02f6530106a8e2e5df699b607</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:24:40</sys_updated_on><tab display_value="ACCOUNT MANAGEMENT - New Tab 4">f9dd8dd02f6530106a8e2e5df699b605</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+<payload_hash>-2017425642</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>740beb802f3130106a8e2e5df699b66e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac41ed7870000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>44d72a4b2ff3a4106a8e2e5df699b626</target_name>
+<type>Dashboard Tab</type>
+<update_domain>global</update_domain>
+<update_guid>43cfc55465653010a9c04343c6c32ef7</update_guid>
+<update_guid_history>43cfc55465653010a9c04343c6c32ef7:-2017425642,7ddd8dd0b1653010a031f3916ea56d08:1909094410</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sysevent_in_email_action_e22c95342f6530106a8e2e5df699b658</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysevent_in_email_action"&gt;&lt;sysevent_in_email_action action="INSERT_OR_UPDATE"&gt;&lt;action&gt;record_action&lt;/action&gt;&lt;active&gt;true&lt;/active&gt;&lt;assignment_operator/&gt;&lt;condition_script/&gt;&lt;description/&gt;&lt;event_name&gt;email.read&lt;/event_name&gt;&lt;filter_condition table="sys_email"&gt;subjectSTARTSWITHRe:PLA^EQ&lt;item endquery="false" field="subject" goto="false" newquery="false" operator="STARTSWITH" or="false" value="Re:PLA"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/filter_condition&gt;&lt;from/&gt;&lt;name&gt;planFeeMeasure&lt;/name&gt;&lt;order&gt;10&lt;/order&gt;&lt;reply_email/&gt;&lt;required_roles/&gt;&lt;script&gt;&lt;![CDATA[(function runAction(/*GlideRecord*/ current, /*GlideRecord*/ event, /*EmailWrapper*/ email, /*ScopedEmailLogger*/ logger, /*EmailClassifier*/ classifier) {
+
+	// Implement email action here	
+// 	var sub = email.subject;
+// 	sub = sub.split(":");
+// 	sub = sub[1];
+// 	sub = sub.split(" ");
+// 	sub = sub[0];
+// 	gs.info('Shar '+email.subject);
+// 	gs.info('Shar1 '+sub);
+// 	sub = sub.toString();
+// 	var plGR = new GlideRecord('x_587269_account_m_plan_fee_measure');
+// 	plGR.addQuery('number',sub);
+// 	plGR.query();
+// 	if(plGR.next()){
+// 		gs.log('Shar2 '+current);
+// 		gs.log('Shar3');
+// 		gs.log('Shar4 '+plGR.number);
+// 		plGR.setValue('status','completed');
+// 		plGR.update();
+// 	}
+//	current.setValue('status','completed');
+
+})(current, event, email, logger, classifier);]]&gt;&lt;/script&gt;&lt;stop_processing&gt;false&lt;/stop_processing&gt;&lt;sys_class_name&gt;sysevent_in_email_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-07-22 03:55:25&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;e22c95342f6530106a8e2e5df699b658&lt;/sys_id&gt;&lt;sys_mod_count&gt;22&lt;/sys_mod_count&gt;&lt;sys_name&gt;planFeeMeasure&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Account Management" source="x_587269_account_m"&gt;e43c1e972f6720106a8e2e5df699b612&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Account Management"&gt;e43c1e972f6720106a8e2e5df699b612&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_in_email_action_e22c95342f6530106a8e2e5df699b658&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-07-22 09:49:50&lt;/sys_updated_on&gt;&lt;table&gt;x_587269_account_m_plan_fee_measure&lt;/table&gt;&lt;template&gt;status=completed^EQ&lt;/template&gt;&lt;type&gt;reply&lt;/type&gt;&lt;/sysevent_in_email_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>951839308</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>780b2b442f3130106a8e2e5df699b6b7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17acd9f0d420000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table>x_587269_account_m_plan_fee_measure</table>
+<target_name>planFeeMeasure</target_name>
+<type>Inbound Email Actions</type>
+<update_domain>global</update_domain>
+<update_guid>9adfaefc4c293010c2e98816af95658e</update_guid>
+<update_guid_history>9adfaefc4c293010c2e98816af95658e:951839308,dd4e22fcae29301073b096064d367899:-1436513648,0de4e6f4a7293010d8cccab98d16fcba:-1942109978,6ec46ab4ec293010a1c7146b6d849842:-307278930,c21466b4b22930106a69325bc24c8d66:-646380718,0113a2b4582930108a3a9137e76ee671:1426671528,50e2667430293010ca05a1fb87ce200d:-120599499,2f912e349a29301008bad20091acddc1:1098288525,ad1f52f0b72930109550c4d3c4e2617e:1592135899,4f6e9ab07e293010fda2a6696ff4f8b0:-1099821679,374d16701529301082a3ae60de9da328:1592135899,2f0dd2708c29301048e717e1ff256c23:2040428313,d80c1a3041293010218ad35900728b7c:1518522170,17c812b85ee53010be532bc8621674cb:1992000879,1b21def4c6e53010a151010ab4899397:-118892784,276e8af485e53010d70c2dab2a05b12d:-775253064,d8ddcab473e53010cece2b58665fac92:661301084,0bdcc67484e530100e426cf01ca387c0:339186392,73ac46b484e53010d3daa3b01bbdc745:1787536519,cc2d29fc6d6530108a02c07b74909708:-514321526,470ca9bc34653010549a0575ca2ed765:-1018942795,647b29b845653010003e3a578049992f:-732706059,2abed97435653010aae0429c9c583975:-1827244265</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_93eb13e12f8470106a8e2e5df699b633</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA ACCOUNT MANAGEMENT - New Tab 3">6ddbd7a12f8470106a8e2e5df699b6c6</grid_canvas><height>7</height><portal_widget display_value="Created 2021-05-11 12:53:41">9beb1ba12f8470106a8e2e5df699b6ce</portal_widget><posx>0</posx><posy>10</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-11 07:23:41</sys_created_on><sys_id>93eb13e12f8470106a8e2e5df699b633</sys_id><sys_mod_count>28</sys_mod_count><sys_name>6ddbd7a12f8470106a8e2e5df699b6c6</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_grid_canvas_pane_93eb13e12f8470106a8e2e5df699b633</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:32:49</sys_updated_on><width>4</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-594761790</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>780b2b442f3130106a8e2e5df699b6ba</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac41e78a30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>6ddbd7a12f8470106a8e2e5df699b6c6</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>d9bfc554e6653010a49b4341bce9bdd9</update_guid>
+<update_guid_history>d9bfc554e6653010a49b4341bce9bdd9:-594761790,3d45895c28253010d96dcc966047ae5f:-1561551042,5135495c3c253010dbd7c9f5b0006167:-1319853729,cb25095c3b2530105f51fc4126d799fb:-2044945668,a625095c9f253010b8897bf8cf1784c7:2008324315,78d4c15ce1253010b68eea9f0420b0fa:-464233153,bc94cd1ce3253010136f76d52110efd9:-1561551042,ab84cd1c9725301093776d13035b8575:-464233153,3d7149981525301011d687a17e1a9a21:-1561551042,a161099888253010ce75b582052baa49:502556099,435309404fd13010ab7601dcaa42b478:-594761790,565349406fd1301060231ee9ca99bc58:-1624036639,6333c54025d130107a2b7f6b8a3a44ef:-1865733952,d723c5401ed1301067d8405261605d05:737352153,8f0381408cd13010c2e106aa594e7c84:1834670042,6ee2c140c1d130107daf754613fa595f:737352153,27fd9f258a8470108cb85db4c4488d6c:1753714134,cadd93252284701006cfea16ce0ba3cd:-1953861419,e1dd1f251184701055642d24c8abb63c:1166322391,71cd9b25b784701024fe779090b0aefa:1504416257,ac8c17e175847010a1491b7dde5326b6:-1729125486,3a7c1be1ba8470103c36736765411e12:-159533635,5a7c17e125847010bd3cc6bde0e6fe9a:-1729125486,f36cd7e1b38470102a081d2da4b91989:1504416257,ba1c13e1c68470101a0e24a37db63d3e:-1729125486,dd1c53e16284701075097280abcbe958:-731268781,400c13e111847010de35878aa9ee7a9c:-388384972,bcfb9fa16f847010f05f67aa60899fea:-45501163,93eb13e174847010df76807b2bda2a34:-1938156790</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_contains_213307622fd130106a8e2e5df699b6ce</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="x_587269_account_m.accounts_user" name="x_587269_account_m.accounts_user">7150221b2f6720106a8e2e5df699b649</contains><role display_value="x_587269_account_m.anager_ey" name="x_587269_account_m.anager_ey">894519312ffba0106a8e2e5df699b67f</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-15 11:28:06</sys_created_on><sys_id>213307622fd130106a8e2e5df699b6ce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_587269_account_m.accounts_user.x_587269_account_m.anager_ey</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_user_role_contains_213307622fd130106a8e2e5df699b6ce</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-15 11:28:06</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+<payload_hash>-774457022</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>780b2b442f3130106a8e2e5df699b6bd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17aa9ec7f160000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>x_587269_account_m.accounts_user.x_587269_account_m.anager_ey</target_name>
+<type>Contained Role</type>
+<update_domain>global</update_domain>
+<update_guid>a5330f6269d1301009f412791592ac37</update_guid>
+<update_guid_history>a5330f6269d1301009f412791592ac37:-774457022</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>pa_m2m_dashboard_sources_d2fd01142f6530106a8e2e5df699b64f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_sources"><pa_m2m_dashboard_sources action="DELETE"><breakdown_source display_value="Active (Buckets)">cca9d8161317b20005ef54c32244b07e</breakdown_source><dashboard display_value="ACCOUNT MANAGEMENT">44d72a4b2ff3a4106a8e2e5df699b626</dashboard><order>100</order><publisher/><sys_class_name>pa_m2m_dashboard_sources</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 13:25:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d2fd01142f6530106a8e2e5df699b64f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ACCOUNT MANAGEMENT.Active (Buckets)</sys_name><sys_overrides/><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>pa_m2m_dashboard_sources_d2fd01142f6530106a8e2e5df699b64f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:25:14</sys_updated_on></pa_m2m_dashboard_sources></record_update>]]></payload>
+<payload_hash>-218548669</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>780beb802f3130106a8e2e5df699b66d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac418cbca0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>cca9d8161317b20005ef54c32244b07e</target_name>
+<type>Dashboard Breakdown Source</type>
+<update_domain>global</update_domain>
+<update_guid>da4e451452653010dc0db5f63048edc3</update_guid>
+<update_guid_history>da4e451452653010dc0db5f63048edc3:-218548669,5afd01141a6530104f218e07cdc06551:-1721086665</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_11eb1ba12f8470106a8e2e5df699b6cc</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA ACCOUNT MANAGEMENT - New Tab 3">6ddbd7a12f8470106a8e2e5df699b6c6</grid_canvas><height>7</height><portal_widget display_value="Created 2021-05-11 12:53:32">11eb1ba12f8470106a8e2e5df699b6ca</portal_widget><posx>4</posx><posy>10</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-11 07:23:32</sys_created_on><sys_id>11eb1ba12f8470106a8e2e5df699b6cc</sys_id><sys_mod_count>30</sys_mod_count><sys_name>6ddbd7a12f8470106a8e2e5df699b6c6</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_grid_canvas_pane_11eb1ba12f8470106a8e2e5df699b6cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:32:50</sys_updated_on><width>4</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-244530191</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>7c0b2b442f3130106a8e2e5df699b6b9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac41e7d560000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>6ddbd7a12f8470106a8e2e5df699b6c6</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>e1bfc55477653010dd948e1ed80815dd</update_guid>
+<update_guid_history>e1bfc55477653010dd948e1ed80815dd:-244530191,b545895c0c253010121acd816215835b:-1211319443,4935495c4d2530100d0e468a9ceb3d5e:-969622130,3e25095cd325301062dc23b092e032e6:-1694714069,ae25095c92253010f5942a74d732cebe:-1936411382,60d4c15c882530109ee2af8bc8edb2f2:-114001554,b494cd1cf125301049984219aadc5ad1:-1211319443,9384cd1c132530104ce34646e6a4ef6d:-114001554,2571499806253010d6578d80018ff419:-1211319443,e9610998e52530103aaac23f169eb942:852787698,5863818421913010b86fd99f4317f974:-244530191,73538140dad130103fb9f494fa7c0c41:-1273805040,e44385405ad130108be5060df30b53e1:-1515502353,5f238540fbd13010692ece0b7d03dbff:1087583752,07038140c5d1301095cc48d15929227f:-2110065655,e2e2c140cdd130107dc4ce008e10ed5a:1087583752,47fddb255884701013acabf8bb440523:1210822599,87ed93255f847010a4a463a55a4883b2:1798214342,56ed5f258d8470107f37ede2a95a7728:1210822599,31eddb25c38470100de1acfc182f4883:623430856,67dd9b2539847010b1946c62404e5c29:961524722,248c17e16f847010a3f4347a8abfb1b1:-1378893887,767c17e172847010a1def14e85894f36:-745506586,387c9fa1738470100351a7db9fb310f8:-1378893887,647c97e1fa847010c49084c085b30fe0:201818628,321c13e1968470107c8a17a585ef1039:-1378893887,551c53e1708470106892851a63eb6f53:658744743,040c13e110847010d2f2f741fd367d98:1001628552,b0fb9fa165847010531b1fb46e7229e7:1344512361,a7eb13e1ec847010699e94f415c6f04c:1687396170,11eb1ba1b48470102fd951af737e2ccd:-773878219</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_hp_reference_2584cd1c2f2530106a8e2e5df699b60a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_reference"><sys_ui_hp_reference action="DELETE"><publisher_reference display_value="Account Manager">d744491c2f2530106a8e2e5df699b686</publisher_reference><reference_field>account_manager</reference_field><reference_table>x_587269_account_m_accounts</reference_table><sys_class_name>sys_ui_hp_reference</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 12:44:47</sys_created_on><sys_id>2584cd1c2f2530106a8e2e5df699b60a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>d744491c2f2530106a8e2e5df699b686</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_ui_hp_reference_2584cd1c2f2530106a8e2e5df699b60a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 12:44:47</sys_updated_on></sys_ui_hp_reference></record_update>]]></payload>
+<payload_hash>1397108215</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>7c0b2b442f3130106a8e2e5df699b6bc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac3f5d8a60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>d744491c2f2530106a8e2e5df699b686</target_name>
+<type>Interactive Filter Reference</type>
+<update_domain>global</update_domain>
+<update_guid>5b850d5c3c253010793deb8ac96268b4</update_guid>
+<update_guid_history>5b850d5c3c253010793deb8ac96268b4:1397108215,31b44d1c682530108de45076c5a42b7b:1824728579</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>pa_dimensions_b11ec1142f6530106a8e2e5df699b681</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dimensions"><pa_dimensions action="INSERT_OR_UPDATE"><active>true</active><conditions/><description/><empty_value/><facts_table>x_587269_account_m_accounts</facts_table><field>account_manager</field><manual_breakdown/><name>TEST3</name><security_type>1</security_type><sys_class_name>pa_dimensions</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 13:26:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b11ec1142f6530106a8e2e5df699b681</sys_id><sys_mod_count>1</sys_mod_count><sys_name>TEST3</sys_name><sys_overrides/><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>pa_dimensions_b11ec1142f6530106a8e2e5df699b681</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 14:00:16</sys_updated_on></pa_dimensions><sys_translated_text action="delete_multiple" query="documentkey=b11ec1142f6530106a8e2e5df699b681"/></record_update>]]></payload>
+<payload_hash>1912950762</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>7c0beb802f3130106a8e2e5df699b66c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac4379d110000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>TEST3</target_name>
+<type>Breakdown Source</type>
+<update_domain>global</update_domain>
+<update_guid>2ff5559805653010e4b50ea918bf81a4</update_guid>
+<update_guid_history>2ff5559805653010e4b50ea918bf81a4:1912950762,ea3ecdd0f3653010c21c89c47803f80c:1038359500</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_choice_x_587269_account_m_plan_fee_measure_status</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="status" table="x_587269_account_m_plan_fee_measure" version="3"><sys_choice_set action="INSERT_OR_UPDATE"><element>status</element><name>x_587269_account_m_plan_fee_measure</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-15 08:28:45</sys_created_on><sys_id>5a2a16262f5130106a8e2e5df699b65e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>status</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_choice_x_587269_account_m_plan_fee_measure_status</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-15 08:28:45</sys_updated_on></sys_choice_set><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>status</element><hint/><inactive>false</inactive><label>Pending</label><language>en</language><name>x_587269_account_m_plan_fee_measure</name><sequence>1</sequence><synonyms/><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-15 08:28:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>911a5ee22f5130106a8e2e5df699b607</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-15 08:28:52</sys_updated_on><value>pending</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>status</element><hint/><inactive>false</inactive><label>Completed</label><language>en</language><name>x_587269_account_m_plan_fee_measure</name><sequence>2</sequence><synonyms/><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-15 08:28:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ee2ade222f1130106a8e2e5df699b672</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-15 08:29:04</sys_updated_on><value>completed</value></sys_choice></sys_choice></record_update>]]></payload>
+<payload_hash>-1733713564</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>b00b2b442f3130106a8e2e5df699b6b8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17aa94896720000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table>x_587269_account_m_plan_fee_measure</table>
+<target_name>Plan Fee Measure.Status</target_name>
+<type>Choice list</type>
+<update_domain>global</update_domain>
+<update_guid>833a5ee22a5130107ab793e11108f20b</update_guid>
+<update_guid_history>833a5ee22a5130107ab793e11108f20b:-1733713564,423a9626215130105786589ccb6bcdb0:987541987,913a9626f0513010f37054e079ad418b:474691301,4c3a522639513010736a9d7e4b4b8636:193130489,1b2a9626a2513010c9c3041012f23c4c:-179521681,522a1626a6513010c18df1c8f9fd6861:-1821197787</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_e6e28d002fd130106a8e2e5df699b6c8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA ACCOUNT MANAGEMENT - New Tab 3">6ddbd7a12f8470106a8e2e5df699b6c6</grid_canvas><height>3</height><portal_widget display_value="Created 2021-07-07 13:12:45">1ee28d002fd130106a8e2e5df699b6c4</portal_widget><posx>6</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-07 07:42:45</sys_created_on><sys_id>e6e28d002fd130106a8e2e5df699b6c8</sys_id><sys_mod_count>15</sys_mod_count><sys_name>6ddbd7a12f8470106a8e2e5df699b6c6</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_grid_canvas_pane_e6e28d002fd130106a8e2e5df699b6c8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:32:50</sys_updated_on><width>6</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-229310888</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>b00b2b442f3130106a8e2e5df699b6bb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac41e7e520000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>6ddbd7a12f8470106a8e2e5df699b6c6</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>25bf09546e65301025a9d0a8c844072e</update_guid>
+<update_guid_history>25bf09546e65301025a9d0a8c844072e:-229310888,1a45895c16253010beb175f1a71a5474:-1196100140,1535495c47253010edc8a92e89de4e69:-954402827,d435495c2e2530109c326b8882c52315:-229310888,8f25095c8f25301011181a42a66431fd:-1679494766,aa25095cb42530106814e86b541f22cb:-1921192079,3cd4c15cba2530109b649b7f1f34cffc:-1791770145,0194cd1c4925301095b968b255ebd0dc:-1196100140,6f84cd1c14253010ea8f955698dc1677:-1791770145,bd714998572530101df5e12ba544ef23:-1196100140,25610998d6253010cf3487b9ed0afa4b:-824980893,38430940fdd130103dbbd5bac079c62a:-229310888,5723c540dfd1301012b31f5adca47007:-1066000508,e623854099d13010a50e902ffaca1fdc:228515121,0b034540d5d130100b4e6493e122f70d:1840576092,62e2c14008d13010b9685c5a79ad8150:1586367715</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_contains_a04507e22fd130106a8e2e5df699b69b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="x_587269_account_m.plan_fee_measure_user" name="x_587269_account_m.plan_fee_measure_user">9663169e2f8170106a8e2e5df699b651</contains><role display_value="x_587269_account_m.director" name="x_587269_account_m.director">7fb5a8132f7ba4106a8e2e5df699b629</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-15 11:37:02</sys_created_on><sys_id>a04507e22fd130106a8e2e5df699b69b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_587269_account_m.plan_fee_measure_user.x_587269_account_m.director</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_user_role_contains_a04507e22fd130106a8e2e5df699b69b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-15 11:37:02</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+<payload_hash>873385715</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>b00b2b442f3130106a8e2e5df699b6be</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17aa9f4ae470000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>x_587269_account_m.plan_fee_measure_user.x_587269_account_m.director</target_name>
+<type>Contained Role</type>
+<update_domain>global</update_domain>
+<update_guid>244507e23cd130105967e8f909ad899f</update_guid>
+<update_guid_history>244507e23cd130105967e8f909ad899f:873385715</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>pa_m2m_dashboard_tabs_b8df01542f6530106a8e2e5df699b660</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="DELETE"><dashboard display_value="ACCOUNT MANAGEMENT">44d72a4b2ff3a4106a8e2e5df699b626</dashboard><home>false</home><homepage/><order>4</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 13:33:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b8df01542f6530106a8e2e5df699b660</sys_id><sys_mod_count>0</sys_mod_count><sys_name>44d72a4b2ff3a4106a8e2e5df699b626</sys_name><sys_overrides/><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_b8df01542f6530106a8e2e5df699b660</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:33:19</sys_updated_on><tab display_value="ACCOUNT MANAGEMENT - New Tab 4">e4df01542f6530106a8e2e5df699b65e</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+<payload_hash>536883687</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>b00beb802f3130106a8e2e5df699b66e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac7710bbf0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>44d72a4b2ff3a4106a8e2e5df699b626</target_name>
+<type>Dashboard Tab</type>
+<update_domain>global</update_domain>
+<update_guid>1a542ca06dad30105a03c420d9f657fb</update_guid>
+<update_guid_history>1a542ca06dad30105a03c420d9f657fb:536883687,30df01540a653010f80589b5d5edd562:168436443</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sysevent_email_action_3a0b9f082f5930106a8e2e5df699b6fa</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysevent_email_action"&gt;&lt;sysevent_email_action action="INSERT_OR_UPDATE"&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced_condition/&gt;&lt;affected_field_on_event/&gt;&lt;category display_value="Uncategorized" name="Uncategorized"&gt;c97d83137f4432005f58108c3ffa917a&lt;/category&gt;&lt;collection&gt;x_587269_account_m_plan_fee_measure&lt;/collection&gt;&lt;condition/&gt;&lt;content_type&gt;text/html&lt;/content_type&gt;&lt;default_interval/&gt;&lt;description/&gt;&lt;digest_from/&gt;&lt;digest_html/&gt;&lt;digest_reply_to/&gt;&lt;digest_separator_html&gt;&lt;![CDATA[&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;]]&gt;&lt;/digest_separator_html&gt;&lt;digest_separator_text&gt;&lt;![CDATA[\n--------------------------------------------------------------------------------\n]]&gt;&lt;/digest_separator_text&gt;&lt;digest_subject/&gt;&lt;digest_template/&gt;&lt;digest_text/&gt;&lt;digestable&gt;false&lt;/digestable&gt;&lt;event_name&gt;x_587269_account_m.plan_fee_measure&lt;/event_name&gt;&lt;event_parm_1&gt;true&lt;/event_parm_1&gt;&lt;event_parm_2&gt;false&lt;/event_parm_2&gt;&lt;exclude_delegates&gt;false&lt;/exclude_delegates&gt;&lt;force_delivery&gt;false&lt;/force_delivery&gt;&lt;from/&gt;&lt;generation_type&gt;event&lt;/generation_type&gt;&lt;importance/&gt;&lt;include_attachments&gt;false&lt;/include_attachments&gt;&lt;item&gt;event.parm1&lt;/item&gt;&lt;item_table/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;message/&gt;&lt;message_html&gt;&lt;![CDATA[&lt;p&gt;${mail_script:planFeeMeasureTest}&lt;img style="align: baseline;" title="" src="EY%20LOGO.pngx" alt="" width="54" height="41" align="baseline" border="" hspace="" vspace="" /&gt;&lt;/p&gt;]]&gt;&lt;/message_html&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;name&gt;Plan Fee Measure – Monthly&lt;/name&gt;&lt;omit_watermark&gt;false&lt;/omit_watermark&gt;&lt;order&gt;100&lt;/order&gt;&lt;push_message_only&gt;false&lt;/push_message_only&gt;&lt;recipient_fields/&gt;&lt;recipient_groups/&gt;&lt;recipient_users/&gt;&lt;reply_to/&gt;&lt;send_self&gt;false&lt;/send_self&gt;&lt;sms_alternate/&gt;&lt;style/&gt;&lt;subject&gt;Plan Fee Measure&lt;/subject&gt;&lt;subscribable&gt;false&lt;/subscribable&gt;&lt;sys_class_name&gt;sysevent_email_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-07-07 18:50:17&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;3a0b9f082f5930106a8e2e5df699b6fa&lt;/sys_id&gt;&lt;sys_mod_count&gt;14&lt;/sys_mod_count&gt;&lt;sys_name&gt;Plan Fee Measure – Monthly&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Account Management" source="x_587269_account_m"&gt;e43c1e972f6720106a8e2e5df699b612&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Account Management"&gt;e43c1e972f6720106a8e2e5df699b612&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_action_3a0b9f082f5930106a8e2e5df699b6fa&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-07-21 19:38:38&lt;/sys_updated_on&gt;&lt;sys_version&gt;2&lt;/sys_version&gt;&lt;template/&gt;&lt;type&gt;email&lt;/type&gt;&lt;weight&gt;0&lt;/weight&gt;&lt;/sysevent_email_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>311651377</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>b40b2b442f3130106a8e2e5df699b6b7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17aca93bfb60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table>x_587269_account_m_plan_fee_measure</table>
+<target_name>Plan Fee Measure – Monthly</target_name>
+<type>Notification</type>
+<update_domain>global</update_domain>
+<update_guid>a10dafa8312130108c418fd7c3f9ce8e</update_guid>
+<update_guid_history>a10dafa8312130108c418fd7c3f9ce8e:311651377,4968abe428213010df3f507cdbff30d3:1557819135,0cf3609418e13010de42e2852f5d6ea5:311651377,b5d3ec5c25a130100891ef8a1a95a78d:-458750147,06c86d9407dd3010f6822034148d2351:311651377,d7a0bb44d599301051fa2d7462be1eee:-1843766918,8390738419993010144f289f0a9e613d:-758862994,b18073840a9930100cb0f24debe7854b:2137334354,01cd27440b9930106ab309a86b6511d5:-1843766918,9f1da744b79930109f8314d084e85baa:313526119,8778e7000a99301079e3ecc76a12f91f:-1843766918,6395ebcceb5930107d6c58db576d2376:-1983330235,54552bcc45593010c0cb10755d07e555:-595995905,f64c5f48e7593010955fc04f3cc03a07:1487803803,74bb574887593010b12c78e70791b3ee:-157418710</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_556145982f2530106a8e2e5df699b64f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="DELETE"><grid_canvas display_value="PA ACCOUNT MANAGEMENT - New Tab 3">6ddbd7a12f8470106a8e2e5df699b6c6</grid_canvas><height>4</height><portal_widget display_value="">d56145982f2530106a8e2e5df699b64c</portal_widget><posx>6</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 12:30:17</sys_created_on><sys_id>556145982f2530106a8e2e5df699b64f</sys_id><sys_mod_count>9</sys_mod_count><sys_name>6ddbd7a12f8470106a8e2e5df699b6c6</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_grid_canvas_pane_556145982f2530106a8e2e5df699b64f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 12:47:17</sys_updated_on><width>6</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-1155348037</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>b40b2b442f3130106a8e2e5df699b6ba</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac41e7ad40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>6ddbd7a12f8470106a8e2e5df699b6c6</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>55bf0154b1653010b1051e9cb3095854</update_guid>
+<update_guid_history>55bf0154b1653010b1051e9cb3095854:-1155348037,1645895cf9253010236fce7a9d4d5772:5487968,dd35495c182530105162aed556429d64:592879711,d835055c7b2530105df76d08424db505:322819138,8325095c0b2530100a88748442ee4ded:469033323,2625095c5f2530109a9ccd39222759c5:-560241526,f4d4c15c1d253010069559d1a14332f8:748850488,3c94cd1c1c2530105395d231220e2ad7:442772103,1b84cd1cc5253010ed018a6a23c46b73:748850488,b97149989c253010158de7799e1e951f:442772103,d56145986025301031ec789616d73851:1304472508</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_b8f1dbf7d7320100ba986f14ce610314</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="b8f1dbf7d7320100ba986f14ce610314" sys_domain="global" table="pa_dimensions" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 14:03:03</sys_created_on><sys_id>c0a6dd982f6530106a8e2e5df699b63b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="pa_dimensions" sys_domain="global" view="Default view">b8f1dbf7d7320100ba986f14ce610314</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 14:03:03</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 14:03:03</sys_created_on><sys_id>44a6dd982f6530106a8e2e5df699b63b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="pa_dimensions" sys_domain="global" view="Default view">b8f1dbf7d7320100ba986f14ce610314</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 14:03:03</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>active</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 14:03:03</sys_created_on><sys_id>c4a6dd982f6530106a8e2e5df699b63b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="pa_dimensions" sys_domain="global" view="Default view">b8f1dbf7d7320100ba986f14ce610314</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 14:03:03</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>pa_dimensions</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2013-08-02 08:31:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path/><sys_id>b8f1dbf7d7320100ba986f14ce610314</sys_id><sys_mod_count>0</sys_mod_count><sys_name>pa_dimensions</sys_name><sys_overrides/><sys_package display_value="Performance Analytics" source="com.snc.pa">97a305876da620100acb70b353433004</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_b8f1dbf7d7320100ba986f14ce610314</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2013-08-02 08:31:47</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>-137940502</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>b40b2b442f3130106a8e2e5df699b6bd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac43a26ec0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table>pa_dimensions</table>
+<target_name>Breakdown Source</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>88a611d83b65301019b5a4132fdf4a03</update_guid>
+<update_guid_history>88a611d83b65301019b5a4132fdf4a03:-137940502,bfc21118f2653010ed308b1e1826ddff:-137940502,43b2ddd4a865301030addf0648c33cb3:357135203,36b2ddd4c16530106f057fe4f3205dae:-137940502</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>pa_m2m_dashboard_sources_9dee0d142f6530106a8e2e5df699b647</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_sources"><pa_m2m_dashboard_sources action="DELETE"><breakdown_source display_value="Active (Buckets)">cca9d8161317b20005ef54c32244b07e</breakdown_source><dashboard display_value="ACCOUNT MANAGEMENT">44d72a4b2ff3a4106a8e2e5df699b626</dashboard><order>200</order><publisher display_value="Account Manager">d744491c2f2530106a8e2e5df699b686</publisher><sys_class_name>pa_m2m_dashboard_sources</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 13:29:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9dee0d142f6530106a8e2e5df699b647</sys_id><sys_mod_count>5</sys_mod_count><sys_name>ACCOUNT MANAGEMENT.Active (Buckets)</sys_name><sys_overrides/><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>pa_m2m_dashboard_sources_9dee0d142f6530106a8e2e5df699b647</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:44:26</sys_updated_on></pa_m2m_dashboard_sources></record_update>]]></payload>
+<payload_hash>2142076142</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>b40beb802f3130106a8e2e5df699b66d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac42993a80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>cca9d8161317b20005ef54c32244b07e</target_name>
+<type>Dashboard Breakdown Source</type>
+<update_domain>global</update_domain>
+<update_guid>fe721dd41a65301081051d927cbf7f96</update_guid>
+<update_guid_history>fe721dd41a65301081051d927cbf7f96:2142076142,db52d5d4eb6530108714be7afbb94d32:479847802,a6d19594f165301056813e912e17e4a1:-1544906046,5441959492653010985fec4b0996127c:-543768966,4f805194e765301005fbdbb705f5f9ae:-1544906046,58309d540e653010c71ccacf618db996:50727828,a1ee0d14a165301006d6887b2dc53049:-1611332110</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_0b0341402fd130106a8e2e5df699b673</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA ACCOUNT MANAGEMENT - New Tab 3">6ddbd7a12f8470106a8e2e5df699b6c6</grid_canvas><height>3</height><portal_widget display_value="Created 2021-07-07 13:13:20">3a0341402fd130106a8e2e5df699b671</portal_widget><posx>0</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-07 07:43:20</sys_created_on><sys_id>0b0341402fd130106a8e2e5df699b673</sys_id><sys_mod_count>12</sys_mod_count><sys_name>6ddbd7a12f8470106a8e2e5df699b6c6</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_grid_canvas_pane_0b0341402fd130106a8e2e5df699b673</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:32:49</sys_updated_on><width>6</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-1536571584</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>b80b2b442f3130106a8e2e5df699b6b9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac41e785f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>6ddbd7a12f8470106a8e2e5df699b6c6</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>55bfc5544c65301079671d6369d4c0d7</update_guid>
+<update_guid_history>55bfc5544c65301079671d6369d4c0d7:-1536571584,3545895cc9253010421d523679ce5a59:1791606460,0535855c4b25301052309ec8173d86c9:2033303773,ba25095ce4253010608f9d9d4e42ace4:1308211834,a625455c2e25301038b481942adac1eb:1066514521,ecd4c15c3e2530101432de99e2e343ef:632821239,3494cd1c7c2530108da55050cefa03cf:1791606460,1384cd1c10253010a6a71115cf8e006b:632821239,a171499896253010647d110afd07e117:1791606460,596109988325301059980c29e2f9f240:1599610491,2333c54096d1301031e815a2cd0769ed:-1536571584,3923c1403cd13010b187794e740e196f:1921706092,0b03414021d13010f25644d6e4936b74:-1505078655</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_hp_publisher_f9d0c1582f2530106a8e2e5df699b647</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_publisher"><sys_ui_hp_publisher action="INSERT_OR_UPDATE"><allow_database_view_filter>false</allow_database_view_filter><allow_extended_table>false</allow_extended_table><boolean_field/><boolean_table/><date_filter/><default_boolean_field/><default_choice/><default_date_filter/><default_reference_field_value/><description/><exclusion_choice_list/><look_up_name>Account</look_up_name><name>Account</name><reference_conditions/><reference_table/><remove_all_option>false</remove_all_option><source_field>account</source_field><source_table>x_587269_account_m_accounts</source_table><sys_class_name>sys_ui_hp_publisher</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 12:29:24</sys_created_on><sys_id>f9d0c1582f2530106a8e2e5df699b647</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Account</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_ui_hp_publisher_f9d0c1582f2530106a8e2e5df699b647</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 12:54:42</sys_updated_on><type>1</type><ui_control_type>3</ui_control_type></sys_ui_hp_publisher></record_update>]]></payload>
+<payload_hash>-1442342060</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>b80b2b442f3130106a8e2e5df699b6bc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac3fb96400000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>Account</target_name>
+<type>Interactive Filter</type>
+<update_domain>global</update_domain>
+<update_guid>47f64d9cf025301001291282149c0aac</update_guid>
+<update_guid_history>47f64d9cf025301001291282149c0aac:-1442342060,9c318158d6253010d92868c31818666d:-811883435</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>pa_dimensions_8a8ec5142f6530106a8e2e5df699b651</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dimensions"><pa_dimensions action="INSERT_OR_UPDATE"><active>true</active><conditions/><description/><empty_value/><facts_table>x_587269_account_m_accounts</facts_table><field>resource</field><manual_breakdown/><name>TEST 2</name><security_type>1</security_type><sys_class_name>pa_dimensions</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 13:28:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8a8ec5142f6530106a8e2e5df699b651</sys_id><sys_mod_count>0</sys_mod_count><sys_name>TEST 2</sys_name><sys_overrides/><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>pa_dimensions_8a8ec5142f6530106a8e2e5df699b651</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:28:47</sys_updated_on></pa_dimensions><sys_translated_text action="delete_multiple" query="documentkey=8a8ec5142f6530106a8e2e5df699b651"/></record_update>]]></payload>
+<payload_hash>598450833</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>b80beb802f3130106a8e2e5df699b66c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac41ac8ee0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>TEST 2</target_name>
+<type>Breakdown Source</type>
+<update_domain>global</update_domain>
+<update_guid>d6ce85146b6530107e537b34071cb751</update_guid>
+<update_guid_history>d6ce85146b6530107e537b34071cb751:598450833</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_64df01542f6530106a8e2e5df699b65c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="DELETE"><legacy_page display_value="PA ACCOUNT MANAGEMENT - New Tab 4">28df01542f6530106a8e2e5df699b65b</legacy_page><name>PA ACCOUNT MANAGEMENT - New Tab 4</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 13:33:19</sys_created_on><sys_id>64df01542f6530106a8e2e5df699b65c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PA ACCOUNT MANAGEMENT - New Tab 4</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_grid_canvas_64df01542f6530106a8e2e5df699b65c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:33:19</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+<payload_hash>-724085031</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>bc0b2b442f3130106a8e2e5df699b6b8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac7710c5b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>PA ACCOUNT MANAGEMENT - New Tab 4</target_name>
+<type>Grid Canvas</type>
+<update_domain>global</update_domain>
+<update_guid>ae546ca0d6ad301051f8f54964ddb701</update_guid>
+<update_guid_history>ae546ca0d6ad301051f8f54964ddb701:-724085031,a8df0154336530108e3ec7d39fb2fe5d:830918989</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_email_8f40d8852f2d30106a8e2e5df699b6ea</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_email"&gt;&lt;sys_script_email action="INSERT_OR_UPDATE"&gt;&lt;name&gt;planFeeMeasureRealTime&lt;/name&gt;&lt;new_lines_to_html&gt;false&lt;/new_lines_to_html&gt;&lt;script&gt;&lt;![CDATA[(function runMailScript( /* GlideRecord */ current, /* TemplatePrinter */ template,
+    /* Optional EmailOutbound */
+    email, /* Optional GlideRecord */ email_action,
+    /* Optional GlideRecord */
+    event) {
+
+    // Add your code here
+    var instance = gs.getProperty("instance_name");
+    var link = "https://" + instance + ".service-now.com";
+    var mark = email.watermark;
+    var emailAddress = instance + "@servicenowdevelopers.com";
+	template.print('&lt;a href="mailto:' + emailAddress + '?subject=Re:' + current.getValue('number') + ' ' + '&amp;body=' + 'Plan fee measure for this contract has been updated.' + ' ' + mark + '"&gt;&lt;button style="background-color:#b7ebc6;" onclick="' + link + '"&gt;Complete&lt;/button&gt;&lt;/a&gt;');
+
+})(current, template, email, email_action, event);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_email&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-07-22 16:52:07&lt;/sys_created_on&gt;&lt;sys_id&gt;8f40d8852f2d30106a8e2e5df699b6ea&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;planFeeMeasureRealTime&lt;/sys_name&gt;&lt;sys_package display_value="Account Management" source="x_587269_account_m"&gt;e43c1e972f6720106a8e2e5df699b612&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Account Management"&gt;e43c1e972f6720106a8e2e5df699b612&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_email_8f40d8852f2d30106a8e2e5df699b6ea&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-07-22 17:13:33&lt;/sys_updated_on&gt;&lt;/sys_script_email&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1601244333</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>bc0b2b442f3130106a8e2e5df699b6bb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17acf35473c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>planFeeMeasureRealTime</target_name>
+<type>Email Script</type>
+<update_domain>global</update_domain>
+<update_guid>026590c17d6d30108dbfae2f69dfed1b</update_guid>
+<update_guid_history>026590c17d6d30108dbfae2f69dfed1b:1601244333,1b6250413c6d30102174039ab6e171cf:139074850,7da1dc01f46d3010a973b29591cfab9d:-630678753,e9a0d801b56d30103c4e3e8c945a0d21:-1215345729,4c809001ab6d3010c8a9955a31ab32b0:-1913696989</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>pa_tabs_b0dbc5902f6530106a8e2e5df699b6a6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="DELETE"><canvas_page display_value="">34dbc5902f6530106a8e2e5df699b6a4</canvas_page><name>ACCOUNT MANAGEMENT - New Tab 4</name><page display_value="">f8dbc5902f6530106a8e2e5df699b6a3</page><sys_class_name>pa_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 13:15:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b0dbc5902f6530106a8e2e5df699b6a6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ACCOUNT MANAGEMENT - New Tab 4</sys_name><sys_overrides/><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>pa_tabs_b0dbc5902f6530106a8e2e5df699b6a6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:15:51</sys_updated_on></pa_tabs></record_update>]]></payload>
+<payload_hash>632472818</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>bc0beb802f3130106a8e2e5df699b66e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac40f01660000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>ACCOUNT MANAGEMENT - New Tab 4</target_name>
+<type>Tab</type>
+<update_domain>global</update_domain>
+<update_guid>f5dbc590806530100d80cbc0bb8a0bef</update_guid>
+<update_guid_history>f5dbc590806530100d80cbc0bb8a0bef:632472818,b0dbc590ee653010f8299ec98c2cffa7:-1308111558,b0dbc590ee653010f8299ec98c2cffa7:-1308111558,b0dbc590ee653010f8299ec98c2cffa7:-1308111558</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sysevent_email_action_08b509eb2f0130106a8e2e5df699b6c1</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysevent_email_action"&gt;&lt;sysevent_email_action action="INSERT_OR_UPDATE"&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;false&lt;/active&gt;&lt;advanced_condition/&gt;&lt;affected_field_on_event/&gt;&lt;category display_value="Uncategorized" name="Uncategorized"&gt;c97d83137f4432005f58108c3ffa917a&lt;/category&gt;&lt;collection&gt;x_587269_account_m_plan_fee_measure&lt;/collection&gt;&lt;condition/&gt;&lt;content_type&gt;text/html&lt;/content_type&gt;&lt;default_interval/&gt;&lt;description/&gt;&lt;digest_from/&gt;&lt;digest_html/&gt;&lt;digest_reply_to/&gt;&lt;digest_separator_html&gt;&lt;![CDATA[&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;]]&gt;&lt;/digest_separator_html&gt;&lt;digest_separator_text&gt;&lt;![CDATA[\n--------------------------------------------------------------------------------\n]]&gt;&lt;/digest_separator_text&gt;&lt;digest_subject/&gt;&lt;digest_template/&gt;&lt;digest_text/&gt;&lt;digestable&gt;false&lt;/digestable&gt;&lt;event_name&gt;activate.life.cycle.migration&lt;/event_name&gt;&lt;event_parm_1&gt;false&lt;/event_parm_1&gt;&lt;event_parm_2&gt;false&lt;/event_parm_2&gt;&lt;exclude_delegates&gt;false&lt;/exclude_delegates&gt;&lt;force_delivery&gt;false&lt;/force_delivery&gt;&lt;from/&gt;&lt;generation_type&gt;engine&lt;/generation_type&gt;&lt;importance/&gt;&lt;include_attachments&gt;false&lt;/include_attachments&gt;&lt;item&gt;event.parm1&lt;/item&gt;&lt;item_table/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;message/&gt;&lt;message_html&gt;&lt;![CDATA[&lt;p&gt;Dear ${account.account_manager},&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Please update the plan fee measure for the below resource.&lt;/p&gt;
+&lt;table style="background-color: #2e2e38;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="padding: 5px; border: 1px solid; border-color: grey; background-color: #ffe600;"&gt;Resource Name&lt;/td&gt;
+&lt;td style="padding: 5px; border: 1px solid; border-color: grey; background-color: #ffe600;"&gt;Account&lt;/td&gt;
+&lt;td style="padding: 5px; border: 1px solid; border-color: grey; background-color: #ffe600;"&gt;Type&lt;/td&gt;
+&lt;td style="padding: 5px; border: 1px solid; border-color: grey; background-color: #ffe600;"&gt;Rate Type&lt;/td&gt;
+&lt;td style="padding: 5px; border: 1px solid; border-color: grey; background-color: #ffe600;"&gt;Start Date&lt;/td&gt;
+&lt;td style="padding: 5px; border: 1px solid; border-color: grey; background-color: #ffe600;"&gt;End Date&lt;/td&gt;
+&lt;td style="padding: 5px; border: 1px solid; border-color: grey; background-color: #ffe600;"&gt;Plan Fee Measure (₹)&lt;/td&gt;
+&lt;td style="padding: 5px; border: 1px solid; border-color: grey; background-color: #ffe600;"&gt;Click to update status&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 5px; border: 1px solid; border-color: grey; background-color: #f6f6fa;"&gt;${resource}&lt;/td&gt;
+&lt;td style="padding: 5px; border: 1px solid; border-color: grey; background-color: #f6f6fa;"&gt;${account.account}&lt;/td&gt;
+&lt;td style="padding: 5px; border: 1px solid; border-color: grey; background-color: #f6f6fa;"&gt;${type}&lt;/td&gt;
+&lt;td style="padding: 5px; border: 1px solid; border-color: grey; background-color: #f6f6fa;"&gt;${rate_type}&lt;/td&gt;
+&lt;td style="padding: 5px; border: 1px solid; border-color: grey; background-color: #f6f6fa;"&gt;${start_date}&lt;/td&gt;
+&lt;td style="padding: 5px; border: 1px solid; border-color: grey; background-color: #f6f6fa;"&gt;${end_date}&lt;/td&gt;
+&lt;td style="padding: 5px; border: 1px solid; border-color: grey; background-color: #f6f6fa;"&gt;${plan_fee}&lt;/td&gt;
+&lt;td style="padding: 5px; border: 1px solid; border-color: grey; background-color: #f6f6fa;"&gt;${mail_script:planFeeMeasureRealTime}&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Regards,&lt;/p&gt;
+&lt;p&gt;ServiceNow Team&lt;/p&gt;
+&lt;p&gt;&lt;img style="align: baseline;" title="" src="EY%20LOGO.pngx" alt="" width="54" height="41" align="baseline" border="" hspace="" vspace="" /&gt;&lt;/p&gt;]]&gt;&lt;/message_html&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;name&gt;Plan Fee Measure&lt;/name&gt;&lt;omit_watermark&gt;false&lt;/omit_watermark&gt;&lt;order&gt;100&lt;/order&gt;&lt;push_message_only&gt;false&lt;/push_message_only&gt;&lt;recipient_fields&gt;account.account_manager&lt;/recipient_fields&gt;&lt;recipient_groups/&gt;&lt;recipient_users/&gt;&lt;reply_to/&gt;&lt;send_self&gt;true&lt;/send_self&gt;&lt;sms_alternate/&gt;&lt;style/&gt;&lt;subject&gt;Plan Fee Measure&lt;/subject&gt;&lt;subscribable&gt;false&lt;/subscribable&gt;&lt;sys_class_name&gt;sysevent_email_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-07-05 18:55:16&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;08b509eb2f0130106a8e2e5df699b6c1&lt;/sys_id&gt;&lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;&lt;sys_name&gt;Plan Fee Measure&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Account Management" source="x_587269_account_m"&gt;e43c1e972f6720106a8e2e5df699b612&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Account Management"&gt;e43c1e972f6720106a8e2e5df699b612&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_action_08b509eb2f0130106a8e2e5df699b6c1&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-07-23 03:32:14&lt;/sys_updated_on&gt;&lt;sys_version&gt;2&lt;/sys_version&gt;&lt;template display_value="Unsubscribe and Preferences"&gt;7ed0481f3b0b2200c869c2c703efc487&lt;/template&gt;&lt;type&gt;email&lt;/type&gt;&lt;weight&gt;0&lt;/weight&gt;&lt;/sysevent_email_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1593311753</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>f00b2b442f3130106a8e2e5df699b6b7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ad16bb2ca0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table>x_587269_account_m_plan_fee_measure</table>
+<target_name>Plan Fee Measure</target_name>
+<type>Notification</type>
+<update_domain>global</update_domain>
+<update_guid>7c03a2012ee17010aceeae357a3392b2</update_guid>
+<update_guid_history>7c03a2012ee17010aceeae357a3392b2:-1593311753,1a465081d56d30104e0d1e39a02d4f9c:-1299208824,8da550810e6d301069818cd83d231697:992447000,700154016f6d301099ca3921bf831190:-1299208824,b4ff8001376d3010e4c606c966e2e170:-1863055149,c23b3b9958113010772d2d3245a8c643:-810663203,829a7b19f911301046e31777ed251b6e:-2019645552,5aa905af9e013010513d040abb938971:-577564364</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_33fb1ba12f8470106a8e2e5df699b62d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA ACCOUNT MANAGEMENT - New Tab 3">6ddbd7a12f8470106a8e2e5df699b6c6</grid_canvas><height>7</height><portal_widget display_value="Created 2021-05-11 12:53:59">b7fb1ba12f8470106a8e2e5df699b62b</portal_widget><posx>4</posx><posy>3</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-11 07:23:59</sys_created_on><sys_id>33fb1ba12f8470106a8e2e5df699b62d</sys_id><sys_mod_count>23</sys_mod_count><sys_name>6ddbd7a12f8470106a8e2e5df699b6c6</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_grid_canvas_pane_33fb1ba12f8470106a8e2e5df699b62d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:32:50</sys_updated_on><width>4</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-1515459114</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>f00b2b442f3130106a8e2e5df699b6ba</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac41e7dd90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>6ddbd7a12f8470106a8e2e5df699b6c6</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>e5bfc5549d653010a5cb741456f874e1</update_guid>
+<update_guid_history>e5bfc5549d653010a5cb741456f874e1:-1515459114,7945895c61253010469ab8b124ef795d:1812718930,4d35495ce82530107722b2aa3bf47462:2054416243,3225095cc82530102262030fe86646eb:1329324304,a225095ca325301010b6baf6222234c3:1302429926,74d4c15c032530108c8c4b393586f7f6:-389451265,b894cd1c4f2530101b2ef31d4de0add5:1812718930,9784cd1c50253010de7473c457f64571:-389451265,397149981c25301016ef51050497961d:1812718930,ed6109986f253010e3231b361af5e346:577337987,335381405fd130102fd2b7484ba5c243:-1515459114,f043854066d130109a0fb20fbf5c02e5:-2102850857,5b23c54088d130104b36299a5907d403:273155077,03038140dbd13010cac3fbe0bb5fe183:1370472966,eee2c140f5d13010c6f7fa4b06bcc25d:273155077,48ed1f251f847010541811bca4e05793:-1377758918,27dd9b25db8470102c92d5932fdf7e2b:1947627355,208c17e16d84701034b1955f4e8f97b5:-1627056795,727c17e115847010af1f294ab8c5b13a:-171232285,c57c9fa187847010b7b837f3ebb8d8fa:-1627056795,247c97e1c8847010988ad5ea2003abe2:734331997,3e1c13e13e847010463d693b69cfd83c:-1627056795,511c53e1008470108cab6884232fdb57:-1896447755,33fb1ba1d284701092059a77891d032e:773081898</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_b3311f072f4130106a8e2e5df699b686</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="b3311f072f4130106a8e2e5df699b686" sys_domain="global" table="x_587269_account_m_plan_fee_measure" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-04 15:37:13</sys_created_on><sys_id>57b257872f4130106a8e2e5df699b698</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_587269_account_m_plan_fee_measure" sys_domain="global" view="Default view">b3311f072f4130106a8e2e5df699b686</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-04 15:37:13</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-04 15:37:13</sys_created_on><sys_id>d7b257872f4130106a8e2e5df699b698</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_587269_account_m_plan_fee_measure" sys_domain="global" view="Default view">b3311f072f4130106a8e2e5df699b686</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-04 15:37:13</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>resource</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-04 15:37:13</sys_created_on><sys_id>5bb257872f4130106a8e2e5df699b698</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_587269_account_m_plan_fee_measure" sys_domain="global" view="Default view">b3311f072f4130106a8e2e5df699b686</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-04 15:37:13</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>account</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-04 15:37:13</sys_created_on><sys_id>dbb257872f4130106a8e2e5df699b698</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_587269_account_m_plan_fee_measure" sys_domain="global" view="Default view">b3311f072f4130106a8e2e5df699b686</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-04 15:37:13</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>rate_type</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-04 15:37:13</sys_created_on><sys_id>5fb257872f4130106a8e2e5df699b698</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_587269_account_m_plan_fee_measure" sys_domain="global" view="Default view">b3311f072f4130106a8e2e5df699b686</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-04 15:37:13</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-04 15:37:13</sys_created_on><sys_id>dfb257872f4130106a8e2e5df699b698</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_587269_account_m_plan_fee_measure" sys_domain="global" view="Default view">b3311f072f4130106a8e2e5df699b686</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-04 15:37:13</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>start_date</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-04 15:37:13</sys_created_on><sys_id>53b257872f4130106a8e2e5df699b699</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_587269_account_m_plan_fee_measure" sys_domain="global" view="Default view">b3311f072f4130106a8e2e5df699b686</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-04 15:37:13</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>number_of_months</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-04 15:37:13</sys_created_on><sys_id>d3b257872f4130106a8e2e5df699b699</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_587269_account_m_plan_fee_measure" sys_domain="global" view="Default view">b3311f072f4130106a8e2e5df699b686</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-04 15:37:13</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>end_date</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-04 15:37:13</sys_created_on><sys_id>57b257872f4130106a8e2e5df699b699</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_587269_account_m_plan_fee_measure" sys_domain="global" view="Default view">b3311f072f4130106a8e2e5df699b686</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-04 15:37:13</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>plan_fee</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-04 15:37:13</sys_created_on><sys_id>d7b257872f4130106a8e2e5df699b699</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_587269_account_m_plan_fee_measure" sys_domain="global" view="Default view">b3311f072f4130106a8e2e5df699b686</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-04 15:37:13</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-04 15:37:13</sys_created_on><sys_id>5bb257872f4130106a8e2e5df699b699</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_587269_account_m_plan_fee_measure" sys_domain="global" view="Default view">b3311f072f4130106a8e2e5df699b686</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-04 15:37:13</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>account_manager</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-07 18:26:39</sys_created_on><sys_id>22465b442f5930106a8e2e5df699b646</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_587269_account_m_plan_fee_measure" sys_domain="global" view="Default view">b3311f072f4130106a8e2e5df699b686</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-07 18:26:39</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>type</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-08 04:19:12</sys_created_on><sys_id>e6ed59dc2f9d30106a8e2e5df699b691</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_587269_account_m_plan_fee_measure" sys_domain="global" view="Default view">b3311f072f4130106a8e2e5df699b686</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-08 04:19:12</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>status</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-15 08:28:08</sys_created_on><sys_id>ed0ad2262f5130106a8e2e5df699b67c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_587269_account_m_plan_fee_measure" sys_domain="global" view="Default view">b3311f072f4130106a8e2e5df699b686</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-15 08:28:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_587269_account_m_plan_fee_measure</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-04 15:30:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b3311f072f4130106a8e2e5df699b686</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_587269_account_m_plan_fee_measure</sys_name><sys_overrides/><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_ui_section_b3311f072f4130106a8e2e5df699b686</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-04 15:30:41</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>786338602</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>f00b2b442f3130106a8e2e5df699b6bd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17aa947be460000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table>x_587269_account_m_plan_fee_measure</table>
+<target_name>Plan Fee Measure</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>e10ad2267c51301004da5891b0857e80</update_guid>
+<update_guid_history>e10ad2267c51301004da5891b0857e80:786338602,e2ed59dc199d30101245866b5aec0394:1614583174,66465b44f45930107c00584a5fcf4748:2138992795,17b2578723413010af20bbd7868a3f9b:1138091496,00b2178720413010dc4ac98f1e16af11:-977315906,9872df470b41301004f5eb4a32a5e57d:-564943382,5ee15b47214130105c7348064619bca6:1330366196,b7315347cc4130106114dd4730e998e8:-809425696,ff311f070341301093470cabc7e2bc89:874814135</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>pa_m2m_dashboard_sources_9a5ec5902f6530106a8e2e5df699b625</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_sources"><pa_m2m_dashboard_sources action="DELETE"><breakdown_source display_value="Active (Buckets)">cca9d8161317b20005ef54c32244b07e</breakdown_source><dashboard display_value="ACCOUNT MANAGEMENT">44d72a4b2ff3a4106a8e2e5df699b626</dashboard><order>100</order><publisher display_value="Account">f9d0c1582f2530106a8e2e5df699b647</publisher><sys_class_name>pa_m2m_dashboard_sources</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 13:26:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9a5ec5902f6530106a8e2e5df699b625</sys_id><sys_mod_count>3</sys_mod_count><sys_name>ACCOUNT MANAGEMENT.Active (Buckets)</sys_name><sys_overrides/><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>pa_m2m_dashboard_sources_9a5ec5902f6530106a8e2e5df699b625</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:44:14</sys_updated_on></pa_m2m_dashboard_sources></record_update>]]></payload>
+<payload_hash>-1446501459</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>f00beb802f3130106a8e2e5df699b66d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac42992f30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>cca9d8161317b20005ef54c32244b07e</target_name>
+<type>Dashboard Breakdown Source</type>
+<update_domain>global</update_domain>
+<update_guid>36721dd470653010894622e177593892</update_guid>
+<update_guid_history>36721dd470653010894622e177593892:-1446501459,2c52d5d4706530105ef2879b75a68d25:909891641,61805194ef65301043be3f3fa22919ba:1548174721,0b209d54c6653010b3714b66e529d01b:288005049,de5ec5904d6530106bae8b02d71d5c26:345711279</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_051c93e12f8470106a8e2e5df699b695</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA ACCOUNT MANAGEMENT - New Tab 3">6ddbd7a12f8470106a8e2e5df699b6c6</grid_canvas><height>7</height><portal_widget display_value="Created 2021-05-11 12:54:21">cd1c1fa12f8470106a8e2e5df699b635</portal_widget><posx>0</posx><posy>3</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-11 07:24:21</sys_created_on><sys_id>051c93e12f8470106a8e2e5df699b695</sys_id><sys_mod_count>23</sys_mod_count><sys_name>6ddbd7a12f8470106a8e2e5df699b6c6</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_grid_canvas_pane_051c93e12f8470106a8e2e5df699b695</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:32:49</sys_updated_on><width>4</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-599104852</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>f40b2b442f3130106a8e2e5df699b6b9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac41e78230000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>6ddbd7a12f8470106a8e2e5df699b6c6</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>4dbf451410653010380f7e8638436fce</update_guid>
+<update_guid_history>4dbf451410653010380f7e8638436fce:-599104852,b9454d1ce3253010cfacd04444d2bf83:-1565894104,8135855c6b253010f3a1e740156849c7:-1324196791,3a25095ccc2530108707e04b0f52eae2:-2049288730,2625455c91253010e1824dc0686a91e9:-355359024,6cd4c15c2f253010741f6b01b4dabeed:-2047240215,b094cd1c9c25301015a9f4549c7293cd:-1565894104,9f84cd1c5425301063b279244bf40368:-2047240215,ed714998cb253010ba5f7f08735b6314:-1565894104,1161c958162530104ad51be57ef7de39:-1080450963,d2534940bad1301046c5b01125a0ac56:-599104852,af33c140bcd130104f27b4af461ebb72:-1186496595,1f234540dad1301067f315b69aa5f388:-1384633873,070381409ad130108751df5d8e1b277d:-287315984,6ee28d0085d13010f0cc1d6243198c88:-1384633873,31cd9b251d84701068e3d040c2118bf8:-461404656,a48c17e113847010efa893280c40d1af:-710702533,f67c17e1c18470101fd9db52a9613634:669283416,1a7c17e19f847010ed60543209c49998:-710702533,b87c9fa1ac84701034e63a3dd1d940f6:-461404656,e47c97e1d184701062a37be87fd357de:508176367,ff6c93e1338470107f5fbff8bfc7969e:-461404656,b21c13e1c1847010e4c6c1ac3607fd37:-710702533,051c93e15b847010eb5d77eff70cb996:-1698754024</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_hp_publisher_d744491c2f2530106a8e2e5df699b686</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_publisher"><sys_ui_hp_publisher action="INSERT_OR_UPDATE"><allow_database_view_filter>false</allow_database_view_filter><allow_extended_table>true</allow_extended_table><boolean_field/><boolean_table/><date_filter/><default_boolean_field/><default_choice/><default_date_filter/><default_reference_field_value/><description/><exclusion_choice_list/><look_up_name>Account Manager</look_up_name><name>Account Manager</name><reference_conditions/><reference_table>sys_user</reference_table><remove_all_option>false</remove_all_option><source_field>account</source_field><source_table>x_587269_account_m_accounts</source_table><sys_class_name>sys_ui_hp_publisher</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 12:42:59</sys_created_on><sys_id>d744491c2f2530106a8e2e5df699b686</sys_id><sys_mod_count>5</sys_mod_count><sys_name>Account Manager</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_ui_hp_publisher_d744491c2f2530106a8e2e5df699b686</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 12:53:55</sys_updated_on><type>2</type><ui_control_type>4</ui_control_type></sys_ui_hp_publisher></record_update>]]></payload>
+<payload_hash>1744004567</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>f40b2b442f3130106a8e2e5df699b6bc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac3fade320000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>Account Manager</target_name>
+<type>Interactive Filter</type>
+<update_domain>global</update_domain>
+<update_guid>63c6899c36253010d36b1b7e37f12ef9</update_guid>
+<update_guid_history>63c6899c36253010d36b1b7e37f12ef9:1744004567,e056019ce72530107f17118029e3b96e:-1720724338,0836495cb8253010c4f60ce345fe0c1f:1744004567,64a5495cb5253010685cbead21aea803:-939131829,72748d1c5b253010b456da3cccae7328:970508694,6b44491cfd2530106668e75b59b55587:304284131</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_34dbc5902f6530106a8e2e5df699b6a4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="DELETE"><legacy_page display_value="PA ACCOUNT MANAGEMENT - New Tab 4">f8dbc5902f6530106a8e2e5df699b6a3</legacy_page><name>PA ACCOUNT MANAGEMENT - New Tab 4</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 13:15:51</sys_created_on><sys_id>34dbc5902f6530106a8e2e5df699b6a4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PA ACCOUNT MANAGEMENT - New Tab 4</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_grid_canvas_34dbc5902f6530106a8e2e5df699b6a4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:15:51</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+<payload_hash>1466600771</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>f80b2b442f3130106a8e2e5df699b6b8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac40f00c90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>PA ACCOUNT MANAGEMENT - New Tab 4</target_name>
+<type>Grid Canvas</type>
+<update_domain>global</update_domain>
+<update_guid>79dbc59013653010f0bacafc5e2697e5</update_guid>
+<update_guid_history>79dbc59013653010f0bacafc5e2697e5:1466600771,b4dbc59056653010bf5f66e4402182a5:-1273362505</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_email_76d723002f9930106a8e2e5df699b635</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_email"&gt;&lt;sys_script_email action="INSERT_OR_UPDATE"&gt;&lt;name&gt;planFeeMeasureTest&lt;/name&gt;&lt;new_lines_to_html&gt;false&lt;/new_lines_to_html&gt;&lt;script&gt;&lt;![CDATA[(function runMailScript( /* GlideRecord */ current, /* TemplatePrinter */ template,
+    /* Optional EmailOutbound */
+    email, /* Optional GlideRecord */ email_action,
+    /* Optional GlideRecord */
+    event) {
+
+    // Add your code here
+    var accountManager = event.parm1;
+    var user = new GlideRecord('sys_user');
+    user.addQuery('sys_id', accountManager);
+    user.query();
+    if (user.next()) {
+        template.print('&lt;p&gt;');
+        template.print('Dear ' + user.getDisplayValue() + ',');
+        template.print('&lt;/p&gt;');
+    }
+    template.print('&lt;p&gt;');
+    template.print('Please update the plan fee measure for the below resources.');
+    template.print('&lt;/p&gt;');
+    template.print('&lt;table style="background-color:#2E2E38;"&gt;');
+    template.print("&lt;tr&gt;&lt;td style=\"padding:5px; border:1px solid; border-color:grey;background-color:#FFE600;\"&gt;");
+    template.print('Resource Name');
+    template.print('&lt;/td&gt;');
+    template.print("&lt;td style=\"padding:5px; border:1px solid; border-color:grey;background-color:#FFE600;\"&gt;");
+    template.print('Account');
+    template.print('&lt;/td&gt;');
+    template.print("&lt;td style=\"padding:5px; border:1px solid; border-color:grey;background-color:#FFE600;\"&gt;");
+    template.print('Type');
+    template.print('&lt;/td&gt;');
+    template.print("&lt;td style=\"padding:5px; border:1px solid; border-color:grey;background-color:#FFE600;\"&gt;");
+    template.print('Rate Type');
+    template.print('&lt;/td&gt;');
+    template.print("&lt;td style=\"padding:5px; border:1px solid; border-color:grey;background-color:#FFE600;\"&gt;");
+    template.print('Start Date');
+    template.print('&lt;/td&gt;');
+    template.print("&lt;td style=\"padding:5px; border:1px solid; border-color:grey;background-color:#FFE600;\"&gt;");
+    template.print('End Date');
+    template.print('&lt;/td&gt;');
+    template.print("&lt;td style=\"padding:5px; border:1px solid; border-color:grey;background-color:#FFE600;\"&gt;");
+    template.print('Plan Fee Measure (₹)');
+    template.print('&lt;/td&gt;');
+    template.print("&lt;td style=\"padding:5px; border:1px solid; border-color:grey;background-color:#FFE600;\"&gt;");
+    template.print('Click to update status');
+    template.print('&lt;/td&gt;&lt;/tr&gt;');
+
+    var img = "/sn-logo-dark-green-email.png";
+    var response = "Complete";
+    var emailbod;
+    var totalPlanFee = 0;
+    var number;
+    var gr = new GlideRecord("x_587269_account_m_plan_fee_measure");
+    gr.addEncodedQuery('status=pending');
+    gr.addQuery('account.account_manager', accountManager);
+    gr.query();
+
+    while (gr.next()) {
+        template.print("&lt;tr&gt;&lt;td style=\"padding:5px; border:1px solid; border-color:grey;background-color:#F6F6FA;\"&gt;");
+        template.print(gr.getDisplayValue('resource'));
+        template.print('&lt;/td&gt;');
+        template.print("&lt;td style=\"padding:5px; border:1px solid; border-color:grey;background-color:#F6F6FA;\"&gt;");
+        template.print(gr.account.account.getDisplayValue());
+        template.print('&lt;/td&gt;');
+        template.print("&lt;td style=\"padding:5px; border:1px solid; border-color:grey;background-color:#F6F6FA;\"&gt;");
+        template.print(gr.getDisplayValue('type'));
+        template.print('&lt;/td&gt;');
+        template.print("&lt;td style=\"padding:5px; border:1px solid; border-color:grey;background-color:#F6F6FA;\"&gt;");
+        template.print(gr.getDisplayValue('rate_type'));
+        template.print('&lt;/td&gt;');
+        template.print("&lt;td style=\"padding:5px; border:1px solid; border-color:grey;background-color:#F6F6FA;\"&gt;");
+        template.print(gr.getValue('start_date'));
+        template.print('&lt;/td&gt;');
+        template.print("&lt;td style=\"padding:5px; border:1px solid; border-color:grey;background-color:#F6F6FA;\"&gt;");
+        template.print(gr.getValue('end_date'));
+        template.print('&lt;/td&gt;');
+        template.print("&lt;td style=\"padding:5px; border:1px solid; border-color:grey;background-color:#F6F6FA;\"&gt;");
+        template.print(gr.getValue('plan_fee'));
+        template.print('&lt;/td&gt;');
+        template.print("&lt;td align=\"center\" style=\"padding:5px; border:1px solid; border-color:grey;background-color:#F6F6FA;\"&gt;");
+        number = gr.getValue('number');
+        emailbod = 'Plan fee measure for this contract has been updated.' + ' (' + gr.getValue('sys_id') + ')';
+        template.print(renderMailtoButton(response, emailbod, number));
+        template.print('&lt;/td&gt;&lt;/tr&gt;');
+
+        totalPlanFee += parseInt(gr.getValue('plan_fee'));
+    }
+
+    template.print('&lt;/table&gt;');
+    template.print('&lt;p&gt;&lt;strong&gt;');
+    template.print('Total Plan Fee Measure to be updated: ₹' + totalPlanFee);
+    template.print('&lt;/strong&gt;&lt;/p&gt;');
+    template.print('&lt;p&gt;Regards,&lt;/p&gt;');
+    template.print('&lt;p&gt;ServiceNow Team&lt;/p&gt;');
+
+})(current, template, email, email_action, event);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_email&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-07-07 19:45:50&lt;/sys_created_on&gt;&lt;sys_id&gt;76d723002f9930106a8e2e5df699b635&lt;/sys_id&gt;&lt;sys_mod_count&gt;59&lt;/sys_mod_count&gt;&lt;sys_name&gt;planFeeMeasureTest&lt;/sys_name&gt;&lt;sys_package display_value="Account Management" source="x_587269_account_m"&gt;e43c1e972f6720106a8e2e5df699b612&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Account Management"&gt;e43c1e972f6720106a8e2e5df699b612&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_email_76d723002f9930106a8e2e5df699b635&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-07-22 11:07:11&lt;/sys_updated_on&gt;&lt;/sys_script_email&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1624175478</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>f80b2b442f3130106a8e2e5df699b6bb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17acde5df0a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>planFeeMeasureTest</target_name>
+<type>Email Script</type>
+<update_domain>global</update_domain>
+<update_guid>af810b3c1069301004eebe67dc68fece</update_guid>
+<update_guid_history>af810b3c1069301004eebe67dc68fece:-1624175478,8894bbac65213010bd8daf9b4611bb06:-1599941300,05f237acd121301023cac46c3cae007d:-1639852925,840237ac8e2130108daa1292708f6e1f:-284989623,5fbfef2c4e213010391f1be9a8bc8c80:133384644,a6ce632ca8213010df8ae2e99927ce54:-580899845,01ce6be8eb2130103a06e971e2789282:-1404497114,7c1e6be85721301054a8a52b90ba0c74:1433499826,76ad63e8e52130100577f7c3efc62701:-534456935,5856e02472ad30101e5d056c5e74ab4a:865652745,51a46ca053ad30106cb6ab6ffc100b4a:1056465644,e7d7c1dc37253010a431c776c4f98b91:1534157462,9fff24d856e13010450fa20e25940cec:620021591,b47ae8987be13010a29e3cbed0790701:-2119849262,f95aac5841e130106641f0c6bc66d3c6:358960335,7d4a2c5834e130103a3832ceb13b4873:-778051409,98d9a898eee13010e24f5fd211ad9ad7:1052593600,0f786058c7e130107640bc7d4f51fed0:-1325728635,3ae7ec1801e130102c3730b5a31e2017:810576461,fb47e0d46de130107ecadffb163eeae0:-1790270392,e6b66494dde1301040f8978a17e7df88:-1213658591,4e366018e9e13010144cd2f0817d6ab0:-1153918622,f1d5ec9430e13010a53b4eb333a7b7b0:1094767607,f9c9ef0c2d2130105214ca4963d16a7e:-1067974273,a0cabf192f11301043cb1200a4d13b47:662124238,88a5936c0811301041fdc35be73bf214:1253479840,52e49e1859117010cc167b1baf781b03:-377861224,e1928e18a21170100828db1325d79c16:1162628673,f7a1c218f01170103242bc2011e8e2c9:-1549954418,bb214e944d117010e80c965fa8298a21:1047087420,877f75dce0dd3010ae109ee61bf29c79:888232246,d95ffd5471117010ad0a41aa0ff72d7b:-1913062854,a41575dc2add301033aa9590d333bf40:1332282665,6513359c75dd3010a735eb28298b8086:776465517,aaa23dd8f7dd3010457ff9dd0fb6ef09:-1068538672,c1e13d1c9bdd3010fbfa1a5205d294a8:1910918305,959139186fdd3010747fa6856775acfb:1596744585,3d513d1c71dd30107df293a400f4cca3:-941884311,63ba2918f0dd30100652ee599c58c9f2:861231937,fc2ae1d45bdd3010bbdadbd83f042d56:65631465,70f76150c0dd30108ce83b17342f0c5a:369041878,4a10e11040dd301077872aa6bfe4c8b4:-1744979468,e793374826993010f5829bc8a8fe8ee2:-873545630,48c2374871993010b062abb2452fff37:2082459547,92cea744099930101f6f6935259714d7:-1653630636,681ee344dd9930109d36b068c92edd1c:-1220161814,d9bd6f44d699301038875f2235552b46:1136678828,ed7de744fe9930101b6791941eecc327:-1655848302,ea3da344889930104e712dfd54b99f04:538269315,d6ecaf04ca993010f6f2fda1e25f6056:-838152112,e86c6bc07e993010cea0b6af43512c96:857011128,532ceb045f993010b4142de8fd6603c9:-2102486868,72eaabc0809930107ef844ad420dccd7:1003454247,95ba2f8052993010760b8166cb3f5f9f:-1063601718,648a27402f993010c2db9da167c71aa1:911237283,986a2f800d9930105fc7de382b060851:-1892977547,16892f808d9930102d2e760f5c10e799:-1799964836,a6292f4096993010a2936498bb5a7a92:692075860,67092740659930109c564aacb0eeac85:-1405500090,2668274065993010897afbc33ac80d46:-479558700</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>pa_tabs_9abb81dc2f2530106a8e2e5df699b6cf</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="DELETE"><canvas_page display_value="">92bb81dc2f2530106a8e2e5df699b6cd</canvas_page><name>ACCOUNT MANAGEMENT - New Tab 4</name><page display_value="">1ebb81dc2f2530106a8e2e5df699b6cb</page><sys_class_name>pa_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 13:15:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9abb81dc2f2530106a8e2e5df699b6cf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ACCOUNT MANAGEMENT - New Tab 4</sys_name><sys_overrides/><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>pa_tabs_9abb81dc2f2530106a8e2e5df699b6cf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:15:25</sys_updated_on></pa_tabs></record_update>]]></payload>
+<payload_hash>-1127872783</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>f80beb802f3130106a8e2e5df699b66e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac40ebb9c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>ACCOUNT MANAGEMENT - New Tab 4</target_name>
+<type>Tab</type>
+<update_domain>global</update_domain>
+<update_guid>9dcb8590b1653010552d8c5938f80a61</update_guid>
+<update_guid_history>9dcb8590b1653010552d8c5938f80a61:-1127872783,d6bb81dc7425301057f104846a0174d1:-1136021149,d6bb81dc7425301057f104846a0174d1:-1136021149,d6bb81dc7425301057f104846a0174d1:-1136021149</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_0dd14b222fd130106a8e2e5df699b6df</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Account Management">6280a29b2f6720106a8e2e5df699b6e8</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Plan Fee Measure</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_587269_account_m_plan_fee_measure</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_587269_account_m.plan_fee_measure_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-15 11:23:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0dd14b222fd130106a8e2e5df699b6df</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Plan Fee Measure</sys_name><sys_overrides/><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_app_module_0dd14b222fd130106a8e2e5df699b6df</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-15 11:23:00</sys_updated_on><timeline_page/><title>Plan Fee Measure</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>56631789</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>fc0b2b442f3130106a8e2e5df699b6b7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17aa9e7d61b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table>x_587269_account_m_plan_fee_measure</table>
+<target_name>Plan Fee Measure</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>87028b226ad13010c745b966a7a4d24b</update_guid>
+<update_guid_history>87028b226ad13010c745b966a7a4d24b:56631789</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_d8d4cd1c2f2530106a8e2e5df699b6e1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="DELETE"><grid_canvas display_value="PA ACCOUNT MANAGEMENT - New Tab 3">6ddbd7a12f8470106a8e2e5df699b6c6</grid_canvas><height>4</height><portal_widget display_value="">dcd4cd1c2f2530106a8e2e5df699b6df</portal_widget><posx>0</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 12:45:14</sys_created_on><sys_id>d8d4cd1c2f2530106a8e2e5df699b6e1</sys_id><sys_mod_count>3</sys_mod_count><sys_name>6ddbd7a12f8470106a8e2e5df699b6c6</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_grid_canvas_pane_d8d4cd1c2f2530106a8e2e5df699b6e1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 12:47:15</sys_updated_on><width>6</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>986110762</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>fc0b2b442f3130106a8e2e5df699b6ba</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac41e75810000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>6ddbd7a12f8470106a8e2e5df699b6c6</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>8dbfc5540c6530103bd7b51a33ca3acd</update_guid>
+<update_guid_history>8dbfc5540c6530103bd7b51a33ca3acd:986110762,bd45895c42253010eb3a67add2463961:-1711518872,6725c55c262530101510446a25d01a71:-1124127129,2a25095ca8253010abca4317302306c9:-1436627994,50d4cd1c2b253010dd3415a041af55e3:-1604202438</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_contains_61330f622fd130106a8e2e5df699b638</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="x_587269_account_m.plan_fee_measure_user" name="x_587269_account_m.plan_fee_measure_user">9663169e2f8170106a8e2e5df699b651</contains><role display_value="x_587269_account_m.anager_ey" name="x_587269_account_m.anager_ey">894519312ffba0106a8e2e5df699b67f</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-15 11:28:06</sys_created_on><sys_id>61330f622fd130106a8e2e5df699b638</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_587269_account_m.plan_fee_measure_user.x_587269_account_m.anager_ey</sys_name><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>sys_user_role_contains_61330f622fd130106a8e2e5df699b638</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-15 11:28:06</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+<payload_hash>-1525450410</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>fc0b2b442f3130106a8e2e5df699b6bd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17aa9ec7f750000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>x_587269_account_m.plan_fee_measure_user.x_587269_account_m.anager_ey</target_name>
+<type>Contained Role</type>
+<update_domain>global</update_domain>
+<update_guid>25330f6284d13010d57e6040f8cdae4b</update_guid>
+<update_guid_history>25330f6284d13010d57e6040f8cdae4b:-1525450410</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</application>
+<category>customer</category>
+<comments/>
+<name>pa_m2m_dashboard_tabs_70dbc5902f6530106a8e2e5df699b6a8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="DELETE"><dashboard display_value="ACCOUNT MANAGEMENT">44d72a4b2ff3a4106a8e2e5df699b626</dashboard><home>false</home><homepage/><order>4</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-20 13:15:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>70dbc5902f6530106a8e2e5df699b6a8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>44d72a4b2ff3a4106a8e2e5df699b626</sys_name><sys_overrides/><sys_package display_value="Account Management" source="x_587269_account_m">e43c1e972f6720106a8e2e5df699b612</sys_package><sys_policy/><sys_scope display_value="Account Management">e43c1e972f6720106a8e2e5df699b612</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_70dbc5902f6530106a8e2e5df699b6a8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-20 13:15:51</sys_updated_on><tab display_value="ACCOUNT MANAGEMENT - New Tab 4">b0dbc5902f6530106a8e2e5df699b6a6</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+<payload_hash>1033742352</payload_hash>
+<remote_update_set display_value="AM 4">e40beb802f3130106a8e2e5df699b66c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-08-01 16:28:34</sys_created_on>
+<sys_id>fc0beb802f3130106a8e2e5df699b66d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17ac40f005c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-08-01 16:28:34</sys_updated_on>
+<table/>
+<target_name>44d72a4b2ff3a4106a8e2e5df699b626</target_name>
+<type>Dashboard Tab</type>
+<update_domain>global</update_domain>
+<update_guid>b1db05dcf0253010ddf3d9f0957af309</update_guid>
+<update_guid_history>b1db05dcf0253010ddf3d9f0957af309:1033742352,34dbc59049653010415835c05b1123a9:665295108</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
